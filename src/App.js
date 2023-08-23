@@ -90,6 +90,86 @@ function App() {
     </div>
   </div>
 
+
+  <Carousel
+      showThumbs = {false}
+      autoPlay = {true}
+      infiniteLoop = {true}
+      >
+        <div>
+        <div class="main-container">
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+  </div> 
+        </div>
+        <div>
+        <div class="main-container">
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+  </div>
+        </div>
+        <div>
+        <div class="main-container">
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+    <div class="content">
+      <div class="image-container">
+        <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+      </div>
+      <div class="text-container">
+        <h2>Título</h2>
+        <p>Este es un párrafo de ejemplo.</p>
+        <button>Ver más</button>
+      </div>
+    </div>
+  </div>
+        </div>
+      </Carousel>
+
     </div>
   );
 }

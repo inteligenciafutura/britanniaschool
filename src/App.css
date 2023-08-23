@@ -119,3 +119,57 @@ nav li:hover a {
 .item:hover img {
   transform: rotateY(180deg);
 }
+
+
+.main-container {
+  /* width: 100%; */
+  background-color: #f0f0f0;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.image-container {
+  flex: 1;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-container {
+  flex: 1;
+  padding: 20px;
+}
+
+.text-container h2 {
+  color: #333;
+}
+
+.text-container p {
+  color: #666;
+  margin: 10px 0;
+}
+
+.text-container button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.text-container button:hover {
+  background-color: darkblue;
+}
