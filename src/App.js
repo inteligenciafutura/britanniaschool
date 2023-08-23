@@ -61,7 +61,7 @@ function App() {
       infiniteLoop = {true}
       >
         <div>
-          <img src="https://react-responsive-carousel.js.org/assets/1.jpeg" />
+          <img src="https://react-responsive-carousel.js.org/assets/1.jpeg" /> 
         </div>
         <div>
           <img src="https://react-responsive-carousel.js.org/assets/2.jpeg" />
@@ -70,6 +70,26 @@ function App() {
           <img src="https://react-responsive-carousel.js.org/assets/3.jpeg" />
         </div>
       </Carousel>
+
+  <div class="container">
+    <div class="item">
+      <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/quicklink6.png" />
+      <p>Texto 1</p>
+    </div>
+    <div class="item">
+      <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/quicklink6.png" />
+      <p>Texto 2</p>
+    </div>
+    <div class="item">
+      <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/quicklink6.png" />
+      <p>Texto 3</p>
+    </div>
+    <div class="item">
+      <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/quicklink6.png" />
+      <p>Texto 4</p>
+    </div>
+  </div>
+
     </div>
   );
 }
