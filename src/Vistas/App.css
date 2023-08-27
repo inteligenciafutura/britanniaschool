@@ -1,0 +1,294 @@
+.App {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+  background-color: #fff;
+}
+
+.logo img {
+  width: auto;
+  height: 80px; /* Ajusta la altura del logo según sea necesario */
+  margin-left: 20px;
+}
+
+.social-icons {
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.social-icons .imgWeb {
+  width: 180px; /* Ajusta el tamaño de los iconos según sea necesario */
+  height: 80px;
+}
+
+.social-icons a:first-child {
+  margin-left: 0;
+}
+
+
+ /* MENU DE COLORES */
+ .container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  width: 25%;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+}
+
+.item img {
+  max-height: 100%;
+  margin-right: 10px; /* Incrementado el margen para separar más la imagen */
+}
+
+.item-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra horizontalmente */
+  justify-content: center; /* Centra verticalmente */
+  color: white;
+  width: 100%;
+}
+
+.item p {
+  text-align: center;
+  margin-bottom: 0;
+  color: white;
+}
+
+.item button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  border-radius: 25px;
+  margin-top: 5px; /* Espacio entre el texto y el botón */
+}
+
+.item:hover button {
+  background-color: white;
+  color: #312783; /* Cambia al color del fondo del item correspondiente */
+}
+
+/* Aplica colores de fondo a los items */
+.item:nth-child(1) {
+  background-color: #312783;
+}
+
+.item:nth-child(2) {
+  background-color: #94C11F;
+}
+
+.item:nth-child(3) {
+  background-color: #109FE3;
+}
+
+.item:nth-child(4) {
+  background-color: #E30613;
+}
+
+.item:nth-child(5) {
+  background-color: #deed01;
+}
+
+.item:nth-child(6) {
+  background-color: #1799bd;
+}
+
+.item:nth-child(7) {
+  background-color: #8817bd;
+}
+
+/* CARDS DEL CARRUSEL */
+.main-container {
+  /* width: 100%; */
+  background-color: #f0f0f0;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.image-container {
+  flex: 1;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-container {
+  flex: 1;
+  padding: 20px;
+}
+
+.text-container h2 {
+  color: #333;
+}
+
+.text-container p {
+  color: #666;
+  margin: 10px 0;
+  text-align: justify;
+}
+
+.text-container button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.text-container button:hover {
+  background-color: darkblue;
+}
+
+/* BARRA INFORMATIVA INFERIOR */
+.custom-div {
+  width: 100%;
+  height: 200px;
+  background-color: #2d85b8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+/* FOOTER */
+.custom-footer {
+  width: 100%;
+  background-color: #E4E4E4;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-column {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer-column img {
+  max-width: 200px;
+}
+
+.footer-column a {
+  margin: 5px;
+}
+
+.footer-column p {
+  margin: 5px 0;
+}
+
+.social{
+  width: 50px;
+}
+
+.ciudad{
+  color: #312782;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none !important;
+}
+
+.ciudad strong{
+  position: relative;
+  bottom: 10px;
+}
+
+
+.Separadora{
+  width: 100%;
+  height: 0.1px;
+  background-color: #312782;
+}
+
+/* MENU */
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #333;
+  padding: 10px;
+}
+
+.menu-column {
+  display: flex;
+  flex-direction: row; /* Cambio a dirección horizontal */
+  align-items: center; /* Centrar verticalmente */
+  margin-right: 20px; /* Espacio entre los ítems del menú y los íconos */
+}
+
+.menu-column a {
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+  margin: 0 10px; /* Espacio horizontal entre los ítems del menú */
+}
+
+.social-icons {
+  display: flex;
+  align-items: center; /* Centrar verticalmente */
+}
+
+.social-icons a {
+  margin-right: 10px; /* Espacio entre los íconos */
+}
+
+.social-icons img {
+  width: 25px;
+  height: 25px;
+}
+
+/* CONTAINER INFORMATIVO */
+.container-informativo {
+  display: flex;
+  width: 100%;
+}
+
+.column {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+.column img {
+  max-width: 100%;
+  height: auto;
+}
