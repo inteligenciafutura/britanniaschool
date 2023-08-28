@@ -6,10 +6,10 @@ export default function Menu() {
         <div class="menu">
         <div class="menu-column">
             <a href="#">Inicio</a>
-            <a href="#">BRITANNIA SCHOOL</a>
-            <a href="#">Proyecto educativo</a>
-            <a href="#">Vida en el colegio</a>
-            <a href="#">Admisiones & Matrículas</a>
+            <a href="#/Nosotros">BRITANNIA SCHOOL</a>
+            <a href="#/ProyectoEducativo">Proyecto educativo</a>
+            <a href="#/VidaEnColegio">Vida en el colegio</a>
+            <a href="#/AdmisionesMatriculas">Admisiones & Matrículas</a>
             <a href="#">Blog</a>
         </div>
         <div class="social-icons">

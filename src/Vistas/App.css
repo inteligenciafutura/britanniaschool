@@ -183,12 +183,34 @@
   height: 200px;
   background-color: #2d85b8;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   color: white;
   text-align: center;
 }
+
+.columnInfo {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.columnInfo img{
+  width: 200px;
+}
+
+.social-icons img{
+  width: 200px;
+}
+
+/* Estilos para los iconos de redes sociales */
+.social-icons i {
+  font-size: 24px;
+  color: white;
+}
+
 
 /* FOOTER */
 .custom-footer {
@@ -214,6 +236,7 @@
 
 .footer-column p {
   margin: 5px 0;
+  text-align: left;
 }
 
 .social{
@@ -291,4 +314,127 @@
 .column img {
   max-width: 100%;
   height: auto;
+}
+
+.imagenNosotros{
+  width: 100%;
+}
+
+/* CSS DE LA VISTA DE NOSOTROS */
+.rowNosotros {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+
+.colNosotros {
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.colNosotros img{
+  width: 486px;
+}
+
+.blue-textNosotros {
+  color: blue;
+}
+
+.centered-imageNosotros {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
+
+.text-justifyNosotros {
+  text-align: justify;
+}
+
+.containerNosotros {
+  margin: 0 auto;
+  max-width: 1200px; /* Puedes ajustar el valor según tu diseño */
+  background-color: #fff;
+  padding: 20px;
+}
+
+
+/* PANTALLA DE VIDA EN EL COLEGIO */
+.titulosVida{
+  text-align: center;
+}
+
+.containerVida {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.image-containerVida {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.image-containerVida img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-containerVida {
+  flex: 1;
+}
+
+.titleVida {
+  color: #312783;
+  font-size: 19px;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  margin-bottom: 5px;
+}
+
+.descriptionVida {
+  font-size: 13px;
+}
+
+/* ADMISIONES Y MATRICULAS */
+.containerMatriculas {
+  display: flex;
+  justify-content: space-between;
+}
+
+.columnMatriculas {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.columnMatriculas.blueMatriculas {
+  background-color: #352A87;
+  color: white;
+}
+
+.centeredMatriculas {
+  text-align: center;
+  color: #352A87;
+}
+
+.form-containerMatriculas {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-containerMatriculas input,
+.form-containerMatriculas select,
+.form-containerMatriculas button {
+  margin: 5px 0;
+  padding: 5px;
 }

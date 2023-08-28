@@ -5,6 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from "react-responsive-carousel";
 import Header from "../Componentes/Header";
 import Menu from "../Componentes/Menu";
+import Footer from "../Componentes/Footer";
 
 function Home() {
   return (
@@ -302,48 +303,20 @@ function Home() {
         </div>
       </div> */}
 
-      <div className="custom-div">
-        <h2>Respaldo y apoyo :</h2>
-        <h2>Cambridge University Press</h2>
-      </div>
+<div className="custom-div">
+  <div className="columnInfo">
+    <h2>Convenios</h2>
+  </div>
+  <div className="columnInfo">
+    <img src="https://britanniaschool.com.co/imagenes/university-of-cambridge-logo.png"/>
+  </div>
+  <div className="columnInfo">
+    <img src="https://britanniaschool.com.co/imagenes/logosmartfin_5451039f29eb5044c2a3926dea4d67f5-300x169.png"/>
+  </div>
+</div>
 
-      <footer className="custom-footer">
-        <div className="footer-column">
-          <img src="https://britanniaschool.com.co/Britannia_files/logoBritania.svg" />
-        </div>
-        <div className="footer-column">
-          <p>Llámanos !</p>
-          <p>315 323 3611</p>
-          <p>Dirección</p>
-          <p>Vía al pórtico, junto al batallón / Cúcuta</p>
-        </div>
-        <div className="footer-column">
-          <a href="#">
-            <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices_Mesa-de-trabajo-1-q5jjeb7sbfxufv6d69cwscc922i7yu9sxps58x2pto.png"
-              className="social"
-            />
-          </a>
-          <a href="#">
-            <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-02-q5jjduaowfaomvuxx21mjglyd4tm4aemve1elxrsxo.png"
-              className="social"
-            />
-          </a>
-          <a href="#">
-            <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-03-q5jjdzxq1fiekjmr04hdyf6pxg1teh10w5ybhljfwc.png"
-              className="social"
-            />
-          </a>
-          <a href="#">
-            <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-04-q5jje5kr6fq4i7ek36x5ddrhhra0onnewxv8d9b2v0.png"
-              className="social"
-            />
-          </a>
-        </div>
-      </footer>
+<Footer></Footer>
+      
     </div>
   );
 }
