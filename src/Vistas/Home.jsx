@@ -21,7 +21,7 @@ function Home() {
         dynamicHeight={true}
       >
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/Britannia.png" />
+          <img src="https://britanniaschool.com.co/imagenes/Britannia.png" />
         </div>
         <div>
           <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img4-1536x800.png" />
@@ -97,7 +97,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Salud mental positiva</h2>
@@ -107,7 +107,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Educación personalizada</h2>
@@ -120,7 +120,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Investigacion1.jpg" />
               </div>
               <div class="text-container">
                 <h2>Investigación</h2>
@@ -129,7 +129,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Bioseguridad</h2>
@@ -142,7 +142,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Profesores calificados</h2>
@@ -151,7 +151,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Colegio campestre</h2>
@@ -164,7 +164,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Todos los cursos</h2>
@@ -173,7 +173,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
                 <h2>Sentirse seguros</h2>
@@ -186,7 +186,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://www.trinitycollege.qld.edu.au/PublishingImages/principalTrinity.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Inclusivos.jpg" />
               </div>
               <div class="text-container">
                 <h2>Ser inclusivos</h2>
