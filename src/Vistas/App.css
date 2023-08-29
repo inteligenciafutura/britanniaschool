@@ -55,6 +55,10 @@
   position: relative;
 }
 
+.item a{
+  color: white;
+}
+
 .item img {
   max-height: 100%;
   margin-right: 10px; /* Incrementado el margen para separar más la imagen */
@@ -187,6 +191,10 @@
   align-items: center;
   color: white;
   text-align: center;
+}
+
+.custom-div .columnInfo h2{
+  color: white;
 }
 
 .columnInfo {
@@ -437,4 +445,52 @@
 .form-containerMatriculas button {
   margin: 5px 0;
   padding: 5px;
+}
+
+.containerBlog {
+  display: grid;
+  grid-template-rows: auto auto;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.itemBlog {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* VISITANOS */
+.centeredContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Centra verticalmente en la pantalla */
+}
+
+.containerVisitanos {
+  width: 80%; /* Ancho del 80% */
+  max-width: 560px; /* Ancho máximo de 560px */
+  height: 300px; /* Alto de 300px */
+}
+
+.galeriaVisitanos{
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+/* CONVENIOS */
+.imagenConvenios{
+  width: 100%;
+}
+
+.tituloConvenios{
+  text-align: center;
+}
+
+.textoCovenios{
+  width: 80%;
+  margin: 0 auto;
 }

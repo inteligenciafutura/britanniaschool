@@ -10,7 +10,7 @@ export default function Menu() {
             <a href="#/ProyectoEducativo">Proyecto educativo</a>
             <a href="#/VidaEnColegio">Vida en el colegio</a>
             <a href="#/AdmisionesMatriculas">Admisiones & Matrículas</a>
-            <a href="#">Blog</a>
+            <a href="#/Blog">Blog</a>
         </div>
         <div class="social-icons">
             <a href="#"><img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/logo_webcolegios.png" className='imgWeb' /></a>

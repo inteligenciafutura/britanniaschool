@@ -6,7 +6,11 @@ import Nosotros from './Vistas/Nosotros';
 import ProyectoEducativo from './Vistas/ProyectoEducativo';
 import VidaEnColegio from './Vistas/VidaEnColegio';
 import AdmisionesMatriculas from './Vistas/AdmisionesMatriculas';
-
+import Blog from './Vistas/Blog';
+import PrimarySchool from './Vistas/PrimarySchool';
+import Visitanos from './Vistas/Visitanos';
+import Convenios from './Vistas/Convenios';
+import PlanAcademico from './Vistas/PlanAcademico';
 
 function App() {
   return (
@@ -18,6 +22,11 @@ function App() {
         <Route path= '/ProyectoEducativo' element={<ProyectoEducativo/>}/>
         <Route path= '/VidaEnColegio' element={<VidaEnColegio/>}/>
         <Route path= '/AdmisionesMatriculas' element={<AdmisionesMatriculas/>}/>
+        <Route path= '/Blog' element={<Blog/>}/>
+        <Route path= '/PrimarySchool' element={<PrimarySchool/>}/>
+        <Route path= '/Visitanos' element={<Visitanos/>}/>
+        <Route path= '/Convenios' element={<Convenios/>}/>
+        <Route path= '/PlanAcademico' element={<PlanAcademico/>}/>
       </Routes>
     </div>
   );

@@ -45,28 +45,28 @@ function Home() {
           <img src="https://britanniaschool.com.co/Britannia_files/icon3-q5jj2ukn7y096nghzl5xay8khdueu2es7cb0sq5zpg.png" />
           <div className="item-content">
             <p>Instalaciones</p>
-            <button>Visitanos</button>
+            <button><a href="#/Visitanos">Visitanos</a></button>
           </div>
         </div>
         <div className="item">
           <img src="https://britanniaschool.com.co/Britannia_files/icon1-q5jj2fj86lfo0w2cfenw7216z7wjewr2t9v94asah0.png" />
           <div className="item-content">
             <p>Convenios</p>
-            <button>Leer más</button>
+            <button><a href="#/Convenios">Leer más</a></button>
           </div>
         </div>
         <div className="item">
           <img src="https://britanniaschool.com.co/Britannia_files/icon2-q5jj2n1xp9pylrrf7hwwr04vqavh4hkxib34yih538.png" />
           <div className="item-content">
             <p>Matrículas</p>
-            <button>Fechas</button>
+            <button><a href="#/AdmisionesMatriculas" >Fechas</a></button>
           </div>
         </div>
         <div className="item">
           <img src="https://britanniaschool.com.co/Britannia_files/icon4-q5jj315ijs99fx6xx60baeksn2xzby4wk8vf5nw8hw.png" />
           <div className="item-content">
             <p>Plan académico</p>
-            <button>Conocer</button>
+            <button><a href="#/PlanAcademico">Conocer</a></button>
           </div>
         </div>
         <div className="item">
@@ -80,7 +80,7 @@ function Home() {
           <img src="https://britanniaschool.com.co/Britannia_files/icon4-q5jj315ijs99fx6xx60baeksn2xzby4wk8vf5nw8hw.png" />
           <div className="item-content">
             <p>Primary school</p>
-            <button>Conocer</button>
+            <button><a href="#/PrimarySchool">Conocer</a></button>
           </div>
         </div>
         <div className="item">
@@ -107,7 +107,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Educacionpersonalizada.jpg" />
               </div>
               <div class="text-container">
                 <h2>Educación personalizada</h2>
@@ -132,8 +132,8 @@ function Home() {
                 <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
               </div>
               <div class="text-container">
-                <h2>Bioseguridad</h2>
-                <p>Cumplimos con todos los estándares y protocolos de bioseguridad requeridos por el Ministerio De Educación y Ministerio de Salud de Colombia</p>
+                <h2>Sentirse seguros</h2>
+                <p>Britannia School busca que sus estudiantes se sientan seguros, ya que es fundamental para su salud y el bienestar. Qué tan seguro se sientan puede influir en sus hábitos sociales y sentimientos de libertad. Cuando nuestros alumnos se sienten seguros, pueden relajarse más fácilmente, recuperarse del estrés y enfocar su necesidad en el estudio y aprendizaje.</p>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Profesorescalificados.jpg" />
               </div>
               <div class="text-container">
                 <h2>Profesores calificados</h2>
@@ -151,33 +151,11 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Colegiocampestre.jpg" />
               </div>
               <div class="text-container">
                 <h2>Colegio campestre</h2>
                 <p>El espacio y la belleza natural de nuestro colegio brindan el mejor entorno de aprendizaje posible para nuestros estudiantes. Hay espacio para crecer, explorar, ser creativo, activo e inspirado.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div>
-          <div class="main-container">
-            <div class="content">
-              <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
-              </div>
-              <div class="text-container">
-                <h2>Todos los cursos</h2>
-                <p>Preescolar, Educación Básica Primaria y Educación Secundaria.</p>
-              </div>
-            </div>
-            <div class="content">
-              <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
-              </div>
-              <div class="text-container">
-                <h2>Sentirse seguros</h2>
-                <p>Britannia School busca que sus estudiantes se sientan seguros, ya que es fundamental para su salud y el bienestar. Qué tan seguro se sientan puede influir en sus hábitos sociales y sentimientos de libertad. Cuando nuestros alumnos se sienten seguros, pueden relajarse más fácilmente, recuperarse del estrés y enfocar su necesidad en el estudio y aprendizaje.</p>
               </div>
             </div>
           </div>
@@ -191,6 +169,21 @@ function Home() {
               <div class="text-container">
                 <h2>Ser inclusivos</h2>
                 <p>Ser inclusivos y admitir la diversidad significa aceptar abiertamente a los demás y sus opiniones, independientemente del sexo, la raza, la sexualidad, la capacidad o el origen socioeconómico. Se ha demostrado que ser inclusivos en un entorno escolar reduce la incidencia de agresiones motivadas por; prejuicios, racismo, discriminación e intolerancia en la comunidad en general.</p>
+              </div>
+            </div>
+            <div class="content">
+              <div class="image-container">
+                <img src="https://britanniaschool.com.co/imagenes/Examenesinternacionales.jpg" />
+              </div>
+              <div class="text-container">
+                <h2>Examen Internacional</h2>
+                <p>Los alumnos del colegio Britannia School, podrán obtener un certificado internacional de dominio del
+idioma inglés, tras presentar un exámenes internacional el cual abarca las habilidades desarrolladas y
+aprendidas durante todo el proceso académico, desde las primeras etapas de preescolar hasta los
+últimos grados de secundaria.
+Una certificación de inglés formal, aumenta las habilidades de comunicación y, la confianza para
+relacionarse con diferentes personas, conocer otras culturas y conocimientos, además de grandes
+oportunidades académicas para el futuro.</p>
               </div>
             </div>
           </div>
@@ -308,10 +301,12 @@ function Home() {
     <h2>Convenios</h2>
   </div>
   <div className="columnInfo">
-    <img src="https://britanniaschool.com.co/imagenes/university-of-cambridge-logo.png"/>
+    <h2>Respaldo y apoyo:</h2>
+    <h2>Cambridge University Press</h2>
   </div>
   <div className="columnInfo">
-    <img src="https://britanniaschool.com.co/imagenes/logosmartfin_5451039f29eb5044c2a3926dea4d67f5-300x169.png"/>
+    <h2>Academia de idiomas</h2>
+    <h2>Smart</h2>
   </div>
 </div>
 
