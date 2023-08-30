@@ -7,7 +7,7 @@ export default function Menu() {
         <div class="menu-column">
             <a href="#">Inicio</a>
             <a href="#/Nosotros">BRITANNIA SCHOOL</a>
-            <a href="#/ProyectoEducativo">Proyecto educativo</a>
+            <a href="#/ProyectoEducativo">Idioma extranjero</a>
             <a href="#/VidaEnColegio">Vida en el colegio</a>
             <a href="#/AdmisionesMatriculas">Admisiones & Matrículas</a>
             <a href="#/Blog">Blog</a>
