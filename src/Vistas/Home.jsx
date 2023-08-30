@@ -73,7 +73,7 @@ function Home() {
           <img src="https://britanniaschool.com.co/Britannia_files/icon4-q5jj315ijs99fx6xx60baeksn2xzby4wk8vf5nw8hw.png" />
           <div className="item-content">
             <p>Kidergarten</p>
-            <button>Conocer</button>
+            <button><a href="#/Kindergarten">Conocer</a></button>
           </div>
         </div>
         <div className="item">
@@ -87,7 +87,7 @@ function Home() {
           <img src="https://britanniaschool.com.co/Britannia_files/icon4-q5jj315ijs99fx6xx60baeksn2xzby4wk8vf5nw8hw.png" />
           <div className="item-content">
             <p>Secondary school</p>
-            <button>Conocer</button>
+            <button><a href="#/SecundarySchool">Conocer</a></button>
           </div>
         </div>
       </div>

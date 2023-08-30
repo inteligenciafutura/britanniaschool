@@ -11,6 +11,10 @@ import PrimarySchool from './Vistas/PrimarySchool';
 import Visitanos from './Vistas/Visitanos';
 import Convenios from './Vistas/Convenios';
 import PlanAcademico from './Vistas/PlanAcademico';
+import Kindergarten from './Vistas/Kindergarten'; 
+import SecundarySchool from './Vistas/SecundarySchool'; 
+import PrimerasComuniones from './Vistas/PrimerasComuniones'; 
+import IzadaBandera from './Vistas/IzadaBandera';
 
 function App() {
   return (
@@ -27,6 +31,10 @@ function App() {
         <Route path= '/Visitanos' element={<Visitanos/>}/>
         <Route path= '/Convenios' element={<Convenios/>}/>
         <Route path= '/PlanAcademico' element={<PlanAcademico/>}/>
+        <Route path= '/Kindergarten' element={<Kindergarten/>}/>
+        <Route path= '/SecundarySchool' element={<SecundarySchool/>}/>
+        <Route path= '/PrimerasComuniones' element={<PrimerasComuniones/>}/>
+        <Route path= '/IzadaBandera' element={<IzadaBandera/>}/>
       </Routes>
     </div>
   );

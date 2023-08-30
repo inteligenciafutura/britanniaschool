@@ -13,7 +13,7 @@ export default function Menu() {
             <a href="#/Blog">Blog</a>
         </div>
         <div class="social-icons">
-            <a href="#"><img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/logo_webcolegios.png" className='imgWeb' /></a>
+            <a href="https://www.webcolegios.com/eaglehillschool/"><img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/logo_webcolegios.png" className='imgWeb' /></a>
         </div>
     </div>
     </div>

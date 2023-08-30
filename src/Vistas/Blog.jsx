@@ -21,7 +21,7 @@ export default function Blog() {
           la primera comunión. Además de esto, se llevó a cabo una integración
           entre nuestros estudiantes.
           <br></br>
-          <a href="#">Read More »</a>
+          <a href="#/PrimerasComuniones">Read More »</a>
         </div>
         <div className="itemBlog">
           Izada de Bandera Batalla de Cúcuta año 2022
@@ -34,7 +34,7 @@ export default function Blog() {
           de libertad que hizo Simón Bolívar en su gesta libertadora y que
           también tocó.
           <br></br>
-          <a href="#">Read More »</a>
+          <a href="#/IzadaBandera">Read More »</a>
         </div>
         <div className="itemBlog">
           Semana Britannia School.
