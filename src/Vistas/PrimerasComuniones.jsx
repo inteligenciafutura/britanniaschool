@@ -21,6 +21,10 @@ Además de esto, se llevó a cabo una integración entre nuestros estudiantes, l
       <img src="https://britanniaschool.com.co/wp-content/uploads/2022/06/5-768x1024.jpg" />
       <img src="https://britanniaschool.com.co/wp-content/uploads/2022/06/25-2-768x1024.jpg" />
       <img src="https://britanniaschool.com.co/wp-content/uploads/2022/06/14-3-768x1024.jpg" />
+      <img src="https://britanniaschool.com.co/imagenes/comunion1.jpg" />
+      <img src="https://britanniaschool.com.co/imagenes/comunion2.jpg" />
+      <img src="https://britanniaschool.com.co/imagenes/comunion3.jpg" />
+      <img src="https://britanniaschool.com.co/imagenes/comunion4.jpg" />
       </center>
 
       <br></br>

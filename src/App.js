@@ -19,6 +19,10 @@ import SemanaBritania from './Vistas/SemanaBritania';
 import BacktoSchool2022 from './Vistas/BacktoSchool2022';
 import ModalidadPresencial2021 from './Vistas/ModalidadPresencial2021';
 import FeriaVirtualUniversidades from './Vistas/FeriaVirtualUniversidades';
+import BatallaBoyaca from './Vistas/BatallaBoyaca';
+import Easter from './Vistas/Easter';
+import SanPatricio from './Vistas/SanPatricio';
+import SpellingBee from './Vistas/SpellingBee';
 
 function App() {
   return (
@@ -43,6 +47,10 @@ function App() {
         <Route path= '/BacktoSchool2022' element={<BacktoSchool2022/>}/>
         <Route path= '/ModalidadPresencial2021' element={<ModalidadPresencial2021/>}/>
         <Route path= '/FeriaVirtualUniversidades' element={<FeriaVirtualUniversidades/>}/>
+        <Route path= '/BatallaBoyaca' element={<BatallaBoyaca/>}/>
+        <Route path= '/Easter' element={<Easter/>}/>
+        <Route path= '/SanPatricio' element={<SanPatricio/>}/>
+        <Route path= '/SpellingBee' element={<SpellingBee/>}/>
       </Routes>
     </div>
   );

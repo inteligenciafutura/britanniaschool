@@ -71,6 +71,38 @@ export default function Blog() {
           <br></br>
           <a href="#/FeriaVirtualUniversidades">Previous Next</a>
         </div>
+        <div className="itemBlog">
+          Batalla de boyaca
+          <br></br>30 agosto, 2023
+          <br></br>
+          No hay comentarios
+          <br></br>
+          <a href="#/BatallaBoyaca">Previous Next</a>
+        </div>
+        <div className="itemBlog">
+        Easter
+          <br></br>30 agosto, 2023
+          <br></br>
+          No hay comentarios
+          <br></br>
+          <a href="#/Easter">Previous Next</a>
+        </div>
+        <div className="itemBlog">
+        Saint Patrick's Day
+          <br></br>30 agosto, 2023
+          <br></br>
+          No hay comentarios
+          <br></br>
+          <a href="#/SanPatricio">Previous Next</a>
+        </div>
+        <div className="itemBlog">
+        Spelling Bee
+          <br></br>30 agosto, 2023
+          <br></br>
+          No hay comentarios
+          <br></br>
+          <a href="#/SpellingBee">Previous Next</a>
+        </div>
       </div>
 
       <Footer></Footer>
