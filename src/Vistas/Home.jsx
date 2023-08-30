@@ -305,8 +305,7 @@ oportunidades académicas para el futuro.</p>
     <h2>Cambridge University Press</h2>
   </div>
   <div className="columnInfo">
-    <h2>Academia de idiomas</h2>
-    <h2>Smart</h2>
+    <h2></h2>
   </div>
 </div>
 
