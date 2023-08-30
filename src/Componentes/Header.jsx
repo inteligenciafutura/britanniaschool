@@ -22,8 +22,8 @@ export default function Header() {
           </a>
 
           <div class="social-icons">
-            <a href="#"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices_Mesa-de-trabajo-1-q5jjeb7sbfxufv6d69cwscc922i7yu9sxps58x2pto.png" /></a>
-            <a href="#"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices-02-q5jjduaowfaomvuxx21mjglyd4tm4aemve1elxrsxo.png" /></a>
+            <a href="https://www.facebook.com/Colegiobritanniaschool"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices_Mesa-de-trabajo-1-q5jjeb7sbfxufv6d69cwscc922i7yu9sxps58x2pto.png" /></a>
+            <a href="https://www.instagram.com/britannia_school_cucuta_/"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices-02-q5jjduaowfaomvuxx21mjglyd4tm4aemve1elxrsxo.png" /></a>
             <a href="#"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices-03-q5jjdzxq1fiekjmr04hdyf6pxg1teh10w5ybhljfwc.png" /></a>
             <a href="#"><img src="https://britanniaschool.com.co/Britannia_files/iconosgrices-04-q5jje5kr6fq4i7ek36x5ddrhhra0onnewxv8d9b2v0.png" /></a>
         </div>

@@ -14,7 +14,11 @@ import PlanAcademico from './Vistas/PlanAcademico';
 import Kindergarten from './Vistas/Kindergarten'; 
 import SecundarySchool from './Vistas/SecundarySchool'; 
 import PrimerasComuniones from './Vistas/PrimerasComuniones'; 
-import IzadaBandera from './Vistas/IzadaBandera';
+import IzadaBandera from './Vistas/IzadaBandera'; 
+import SemanaBritania from './Vistas/SemanaBritania';
+import BacktoSchool2022 from './Vistas/BacktoSchool2022';
+import ModalidadPresencial2021 from './Vistas/ModalidadPresencial2021';
+import FeriaVirtualUniversidades from './Vistas/FeriaVirtualUniversidades';
 
 function App() {
   return (
@@ -35,6 +39,10 @@ function App() {
         <Route path= '/SecundarySchool' element={<SecundarySchool/>}/>
         <Route path= '/PrimerasComuniones' element={<PrimerasComuniones/>}/>
         <Route path= '/IzadaBandera' element={<IzadaBandera/>}/>
+        <Route path= '/SemanaBritania' element={<SemanaBritania/>}/>
+        <Route path= '/BacktoSchool2022' element={<BacktoSchool2022/>}/>
+        <Route path= '/ModalidadPresencial2021' element={<ModalidadPresencial2021/>}/>
+        <Route path= '/FeriaVirtualUniversidades' element={<FeriaVirtualUniversidades/>}/>
       </Routes>
     </div>
   );

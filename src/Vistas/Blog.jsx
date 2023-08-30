@@ -44,9 +44,7 @@ export default function Blog() {
           <br></br>
           Welcome to learning Fun School.
           <br></br>
-          <a href="#">
-            https://www.youtube.com/watch?v=j0d6UyaXSqwhttps://www.youtube.com/watch?v=PafuavqEE98
-          </a>
+          <a href="#/SemanaBritania">Read More »</a>
         </div>
         <div className="itemBlog">
           Back to School 2022!
@@ -54,7 +52,7 @@ export default function Blog() {
           <br></br>
           No hay comentarios
           <br></br>
-          <a href="#">Read More »</a>
+          <a href="#/BacktoSchool2022">Read More »</a>
         </div>
         <div className="itemBlog">
           Clases en modalidad presencial 2021 - Regreso a las aulas
@@ -62,7 +60,7 @@ export default function Blog() {
           <br></br>
           No hay comentarios
           <br></br>
-          <a href="#">Previous Next</a>
+          <a href="#/ModalidadPresencial2021">Previous Next</a>
         </div>
         <div className="itemBlog">
           Feria virtual de universidades 2021 en aras de fortalecer la
@@ -71,7 +69,7 @@ export default function Blog() {
           <br></br>
           No hay comentarios
           <br></br>
-          <a href="#">Previous Next</a>
+          <a href="#/FeriaVirtualUniversidades">Previous Next</a>
         </div>
       </div>
 
