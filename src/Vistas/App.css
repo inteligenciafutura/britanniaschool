@@ -593,4 +593,30 @@
       width: 25px;
       height: 25px;
     }
+
+    /* CARDS DEL CARRUSEL */
+    .main-container {
+      flex-direction: column; /* Cambia la dirección a vertical */
+      align-items: center; /* Centra horizontalmente los elementos */
+    }
+  
+    .content {
+      flex-direction: column; /* Cambia la dirección a vertical */
+      max-width: 100%; /* Ocupa todo el ancho */
+      margin-bottom: 20px; /* Espacio entre los "cards" */
+    }
+  
+    .image-container {
+      order: 2; /* Cambia el orden para que la imagen aparezca arriba */
+    }
+  
+    .image-container img {
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .text-container {
+      order: 1; /* Cambia el orden para que el texto aparezca abajo */
+      padding: 20px;
+    }
 }
