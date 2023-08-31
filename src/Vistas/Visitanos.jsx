@@ -34,25 +34,25 @@ export default function Visitanos() {
         dynamicHeight={true}
       >
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/cambridge-300x225.png" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/cambridge.png" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06476-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06476.jpg" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06484-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06484.jpg" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06486-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06486.jpg" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06487-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06487.jpg" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06490-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06490.jpg" className="imagenvisitanos" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06490-300x200.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/DSC06490.jpg" className="imagenvisitanos" />
         </div>
       </Carousel>
 </div>

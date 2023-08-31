@@ -18,7 +18,7 @@ export default function AdmisionesMatriculas() {
     <div className="containerMatriculas">
   <div className="columnMatriculas">
     <div className="centeredMatriculas">
-      <h1>INSCRIPCIONES ABIERTAS AÑO 2023</h1>
+      <h1>INSCRIPCIONES ABIERTAS AÑO 2024</h1>
       <p>RESERVA TU CUPO</p>
       <p>Formulario en Línea: <a href="https://forms.gle/pwzcaGxAk9aQiFc99" target="_blank">https://forms.gle/pwzcaGxAk9aQiFc99</a></p>
     </div>

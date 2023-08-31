@@ -18,25 +18,25 @@ function Home() {
         showThumbs={false}
         autoPlay={true}
         infiniteLoop={true}
-        dynamicHeight={true}
+        dynamicHeight={false}
       >
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Britannia.png" />
+          <img src="https://britanniaschool.com.co/imagenes/Britannia.png" className="imagenPortada"  />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img4-1536x800.png" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img4-1536x800.png" className="imagenPortada" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/df075e43-109b-4c36-a4c6-4b4fcd4daaf2.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/df075e43-109b-4c36-a4c6-4b4fcd4daaf2.jpg" className="imagenPortada" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/d38fc904-1a13-4296-b9e9-0999b555a86c-3.jpg" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/d38fc904-1a13-4296-b9e9-0999b555a86c-3.jpg" className="imagenPortada" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img3-1024x533.png" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img3-1024x533.png" className="imagenPortada" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img2-1536x800.png" />
+          <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img2-1536x800.png" className="imagenPortada" />
         </div>
       </Carousel>
 
@@ -92,12 +92,12 @@ function Home() {
         </div>
       </div>
 
-      <Carousel showThumbs={false} autoPlay={true} infiniteLoop={true}>
+      <Carousel showThumbs={false} autoPlay={true} infiniteLoop={true} >
         <div>
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Salud mental positiva</h2>
@@ -107,7 +107,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/eduperso.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/eduperso.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Educación personalizada</h2>
@@ -120,7 +120,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Investigacion1.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Investigacion1.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Investigación</h2>
@@ -129,7 +129,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Saludmentalpositiva.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Sentirse seguros</h2>
@@ -142,7 +142,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Profesorescalificados.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Profesorescalificados.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Profesores calificados</h2>
@@ -151,7 +151,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Colegiocampestre.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Colegiocampestre.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Colegio campestre</h2>
@@ -164,7 +164,7 @@ function Home() {
           <div class="main-container">
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Inclusivos.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Inclusivos.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Ser inclusivos</h2>
@@ -173,7 +173,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Examenesinternacionales.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/Examenesinternacionales.jpg" className="estudiantesPortada" />
               </div>
               <div class="text-container">
                 <h2>Examen Internacional</h2>
@@ -303,9 +303,6 @@ oportunidades académicas para el futuro.</p>
   <div className="columnInfo">
     <h2>Respaldo y apoyo:</h2>
     <h2>Cambridge University Press</h2>
-  </div>
-  <div className="columnInfo">
-    <h2></h2>
   </div>
 </div>
 

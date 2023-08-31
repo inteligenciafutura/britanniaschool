@@ -4,6 +4,19 @@
   font-family: Arial, sans-serif;
 }
 
+.imagenvisitanos{
+  
+}
+
+.imagenPortada{
+  height: 813px;
+}
+
+.estudiantesPortada{
+  height: 250px !important;
+  width: 250px !important;
+}
+
 /* HEADER */
 .header {
   display: flex;
@@ -115,7 +128,7 @@
 }
 
 .item:nth-child(5) {
-  background-color: #baa529;
+  background-color: #e7cd36;
 }
 
 .item:nth-child(6) {
@@ -139,6 +152,7 @@
   display: flex;
   align-items: center;
   max-width: 600px;
+  min-height: 450px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -276,7 +290,7 @@
   align-items: center;
   justify-content: space-between;
   color: #333;
-  padding: 10px;
+  padding: 0 10px;
 }
 
 .menu-column {
@@ -290,6 +304,14 @@
   text-decoration: none;
   color: rgb(37, 37, 37);
   margin: 0 10px; /* Espacio horizontal entre los ítems del menú */
+  font-family: "Helvetica", Sans-serif;
+}
+
+.menu-column a:hover {
+  color: #312782;
+  font-weight: 700;
+  border-top: 2px solid #312782;
+  line-height: 80px;
 }
 
 .social-icons {
@@ -479,7 +501,7 @@
 }
 
 .galeriaVisitanos{
-  width: 400px;
+  width: 50%;
   justify-content: center;
   align-items: center;
   margin: 0 auto;
@@ -618,5 +640,13 @@
     .text-container {
       order: 1; /* Cambia el orden para que el texto aparezca abajo */
       padding: 20px;
+    }
+
+    .imagenPortada{
+      height: 150px;
+    }
+
+    .custom-div{
+      display: block;
     }
 }

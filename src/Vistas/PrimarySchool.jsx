@@ -47,6 +47,45 @@ Interpretamos y planificamos un plan de estudios de tal manera que facilite las 
         <div>
           <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/5-2.jpeg" />
         </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax1.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax2.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax3.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax4.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax5.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax6.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax7.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax8.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax9.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax10.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax11.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax12.jpg" />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/primariax13.jpg" />
+        </div>
       </Carousel>
       </div>
     </div>
