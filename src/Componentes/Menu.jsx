@@ -3,8 +3,8 @@ import React from 'react'
 export default function Menu() {
   return (
     <div>
-        <div class="menu">
-        <div class="menu-column">
+        <div className="menu">
+        <div className="menu-column">
             <a href="#">Inicio</a>
             <a href="#/Nosotros">BRITANNIA SCHOOL</a>
             <a href="#/ProyectoEducativo">Idioma extranjero</a>
@@ -12,7 +12,7 @@ export default function Menu() {
             <a href="#/AdmisionesMatriculas">Admisiones & Matrículas</a>
             <a href="#/Blog">Blog</a>
         </div>
-        <div class="social-icons">
+        <div className="social-icons">
             <a href="https://www.webcolegios.com/eaglehillschool/"><img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/logo_webcolegios.png" className='imgWeb' /></a>
         </div>
     </div>

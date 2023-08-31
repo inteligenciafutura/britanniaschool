@@ -38,6 +38,40 @@
   margin-left: 0;
 }
 
+@media (max-width: 768px) {
+  @media (max-width: 768px) {
+    .header {
+      flex-direction: column;
+      justify-content: center;
+      height: auto;
+      padding: 10px;
+    }
+  
+    .logo img {
+      margin: 0 auto 10px;
+      width: 150px;
+      height: auto;
+    }
+  
+    .social-icons {
+      margin: 0 auto;
+      order: 2;
+    }
+  
+    .social-links,
+    .contact-info {
+      text-align: center; /* Centra el contenido en dispositivos móviles */
+      width: 100%; /* Asegura que ocupen todo el ancho */
+    }
+  
+    .social-links a,
+    .contact-info a {
+      display: block;
+      margin: 5px auto;
+    }
+  }
+}
+
 
  /* MENU DE COLORES */
  .container {
