@@ -38,40 +38,6 @@
   margin-left: 0;
 }
 
-@media (max-width: 768px) {
-  @media (max-width: 768px) {
-    .header {
-      flex-direction: column;
-      justify-content: center;
-      height: auto;
-      padding: 10px;
-    }
-  
-    .logo img {
-      margin: 0 auto 10px;
-      width: 150px;
-      height: auto;
-    }
-  
-    .social-icons {
-      margin: 0 auto;
-      order: 2;
-    }
-  
-    .social-links,
-    .contact-info {
-      text-align: center; /* Centra el contenido en dispositivos móviles */
-      width: 100%; /* Asegura que ocupen todo el ancho */
-    }
-  
-    .social-links a,
-    .contact-info a {
-      display: block;
-      margin: 5px auto;
-    }
-  }
-}
-
 
  /* MENU DE COLORES */
  .container {
@@ -531,4 +497,100 @@
 .textoCovenios{
   width: 80%;
   margin: 0 auto;
+}
+
+
+@media (max-width: 768px) {
+    /* HEADER */
+    .header {
+      flex-direction: column;
+      justify-content: center;
+      height: auto;
+      padding: 10px;
+    }
+  
+    .logo img {
+      margin: 0 auto 10px;
+      width: 150px;
+      height: auto;
+    }
+  
+    .social-icons {
+      margin: 0 auto;
+      order: 2;
+    }
+  
+    .social-links,
+    .contact-info {
+      text-align: center; /* Centra el contenido en dispositivos móviles */
+      width: 100%; /* Asegura que ocupen todo el ancho */
+    }
+  
+    .social-links a,
+    .contact-info a {
+      display: block;
+      margin: 5px auto;
+    }
+
+    /* MENU DE COLORES */
+    .container {
+      flex-direction: column; /* Cambia la dirección a vertical */
+      align-items: center; /* Centra horizontalmente los elementos */
+    }
+  
+    .item {
+      width: 100%; /* Ocupa todo el ancho en dispositivos móviles */
+      height: auto; /* Ajusta la altura automáticamente */
+      border-bottom: 1px solid white; /* Agrega un borde entre los ítems */
+    }
+  
+    .item:last-child {
+      border-bottom: none; /* Elimina el borde en el último ítem */
+    }
+  
+    .item img {
+      margin-right: 0; /* Remueve el margen derecho en dispositivos móviles */
+    }
+  
+    .item-content {
+      align-items: flex-start; /* Alinea el contenido al inicio verticalmente */
+      padding: 10px; /* Agrega espacio al contenido */
+    }
+  
+    .item p {
+      text-align: left; /* Alinea el texto a la izquierda */
+    }
+  
+    .item button {
+      width: auto; /* Ajusta el ancho automáticamente */
+      margin-top: 10px; /* Incrementa el espacio entre el texto y el botón */
+    }
+
+    .menu {
+      flex-direction: column; /* Cambia la dirección a vertical */
+      align-items: center; /* Centra horizontalmente los elementos */
+    }
+  
+    .menu-column {
+      flex-direction: column; /* Cambia la dirección a vertical */
+      align-items: center; /* Centra horizontalmente los ítems del menú */
+      margin: 10px 0; /* Espacio entre las columnas */
+    }
+  
+    .menu-column a {
+      margin: 5px 0; /* Espacio vertical entre los ítems del menú */
+    }
+  
+    .social-icons {
+      margin-top: 20px; /* Espacio entre las columnas del menú y los íconos */
+    }
+  
+    .imgWeb {
+      order: 2; /* Cambia el orden para que imgWeb aparezca debajo */
+    }
+  
+    .social-icons img {
+      width: 25px;
+      height: 25px;
+    }
 }
