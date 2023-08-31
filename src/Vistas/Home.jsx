@@ -107,7 +107,7 @@ function Home() {
             </div>
             <div class="content">
               <div class="image-container">
-                <img src="https://britanniaschool.com.co/imagenes/Educacionpersonalizada.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/eduperso.jpg" />
               </div>
               <div class="text-container">
                 <h2>Educación personalizada</h2>

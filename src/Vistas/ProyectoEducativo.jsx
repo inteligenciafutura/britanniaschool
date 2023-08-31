@@ -18,7 +18,7 @@ export default function ProyectoEducativo() {
     <div className="rowNosotros">
       <div className="colNosotros">
         <h2 className="blue-textNosotros">Idioma extranjero</h2>
-        <p className="text-justifyNosotros">El programa de inglés, se desarrolla con 10 horas semanales, además se incluyen horas adiciónales lúdicas y en transversalidad con áreas de ciencias naturales, matemáticas y ciencias sociales.
+        <p className="text-justifyNosotros">El programa de inglés, se desarrolla con 10 horas semanales, además se incluyen horas adiciónales lúdicas y en transversalidad con áreas de ciencias naturales, matemáticas y ciencias sociales.<br></br>
 
 Se trabajan las habilidades propias del marco común Europeo de Referencia para las Lenguas (MCER) que miden el nivel de comprensión, expresión oral y expresión escrita de los estudiantes a través de experiencias significativas y vivenciales, el proceso de aprendizaje es supervisado y guiado por el programa Cambridge.</p>
       </div>

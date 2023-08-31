@@ -115,7 +115,7 @@
 }
 
 .item:nth-child(5) {
-  background-color: #deed01;
+  background-color: #baa529;
 }
 
 .item:nth-child(6) {
@@ -423,6 +423,10 @@
   flex: 1;
   padding: 20px;
   box-sizing: border-box;
+}
+
+.imgMatriculas{
+  width: 250px;
 }
 
 .columnMatriculas.blueMatriculas {

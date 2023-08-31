@@ -40,7 +40,7 @@ export default function AdmisionesMatriculas() {
   </div>
   
   <div class="columnMatriculas">
-    <img src="https://britanniaschool.com.co/wp-content/uploads/2022/10/Captura.png" />
+    <img className='imgMatriculas' src="https://britanniaschool.com.co/imagenes/matriculas2023.jpg" />
   </div>
 </div>
 
