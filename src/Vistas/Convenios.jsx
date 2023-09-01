@@ -16,7 +16,7 @@ export default function Convenios() {
         className="imagenConvenio"
       />
 
-      <h2 className="tituloConvenios">Convenios</h2>
+      {/* <h2 className="tituloConvenios">Convenios</h2>
 
       <div className="textoCovenios">
         <h2>BRITANNIA SCHOOL Y CAMBRIDGE.</h2>
@@ -31,7 +31,7 @@ export default function Convenios() {
         preparación para la presentación de los exámenes internacionales.
         <br></br>
         <br></br>
-      </div>
+      </div> */}
 
       <Footer></Footer>
     </div>

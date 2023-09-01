@@ -13,19 +13,24 @@ export default function ProyectoEducativo() {
     <Menu></Menu>
     <img src='https://britanniaschool.com.co/wp-content/uploads/2021/08/Imagenes-banner_Mesa-de-trabajo-1-copia-5.png' className='imagenNosotros' />
 
-    <div class="containerNosotros">
+    <img src='https://britanniaschool.com.co/imagenes/bannerAzul.png' className='imagenNosotros' />
+
+    <div className="videoeducativo">
+      <iframe width="420" height="300" src="https://www.youtube.com/embed/D3j_5s52z50?si=hXrSGzbcwMMAhx1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div> 
 
     <div className="rowNosotros">
       <div className="colNosotros">
-        <h2 className="blue-textNosotros">Idioma extranjero</h2>
-        <p className="text-justifyNosotros">El programa de inglés, se desarrolla con 10 horas semanales, además se incluyen horas adiciónales lúdicas y en transversalidad con áreas de ciencias naturales, matemáticas y ciencias sociales.<br></br>
 
-Se trabajan las habilidades propias del marco común Europeo de Referencia para las Lenguas (MCER) que miden el nivel de comprensión, expresión oral y expresión escrita de los estudiantes a través de experiencias significativas y vivenciales, el proceso de aprendizaje es supervisado y guiado por el programa Cambridge.</p>
       </div>
-      <div className="colNosotros">
+      {/* <div className="colNosotros">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/D3j_5s52z50?si=hXrSGzbcwMMAhx1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
+      </div> */}
     </div>
+
+    <div class="containerNosotros">
+
+    
 
     <div className="rowNosotros">
       {/* <div className="colNosotros">

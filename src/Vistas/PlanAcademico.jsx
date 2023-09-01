@@ -11,10 +11,10 @@ export default function PlanAcademico() {
       <Header></Header>
       <Menu></Menu>
 
-    <img src="https://britanniaschool.com.co/imagenes/planacademico.png" className="imagenConvenios" />
+    <img src="https://britanniaschool.com.co/imagenes/planEstudio.png" className="imagenConvenio" />
 
 
-<h2 className="tituloConvenios">Plan académico</h2>
+{/* <h2 className="tituloConvenios">Plan académico</h2>
 
 <div className="textoCovenios">
 Las áreas académicas son el centro de nuestro proceso formativo, a partir del conocimiento de cada área, se forman las competencias para la vida.<br></br><br></br>
@@ -41,7 +41,7 @@ Artística lleva a nuestros alumnos a entender el orden lógico y la jerarquía 
 
 - Proyectos de investigación<br></br><br></br>
 <br></br><br></br>
-</div>
+</div> */}
 
       <Footer></Footer>
     </div>
