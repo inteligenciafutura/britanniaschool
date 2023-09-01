@@ -9,12 +9,17 @@
 }
 
 .imagenPortada{
-  height: 813px;
+  height: 510px;
+}
+
+.imagenConvenio{
+  height: 613px;
+  width: 1310px;
 }
 
 .estudiantesPortada{
-  height: 250px !important;
-  width: 250px !important;
+  height: 90% !important;
+  width: 280px !important;
 }
 
 /* HEADER */
@@ -36,6 +41,12 @@
   margin-left: auto;
   margin-right: 20px;
 }
+
+.webColoegio img{
+  width: 180px;
+}
+
+
 
 .social-icons a {
   display: inline-block;

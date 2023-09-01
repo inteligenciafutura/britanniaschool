@@ -21,7 +21,10 @@ function Home() {
         dynamicHeight={false}
       >
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Britannia.png" className="imagenPortada"  />
+          <img src="https://britanniaschool.com.co/imagenes/Britannia1.png" className="imagenPortada"  />
+        </div>
+        <div>
+          <img src="https://britanniaschool.com.co/imagenes/bannerAzul.png" className="imagenPortada"  />
         </div>
         <div>
           <img src="https://britanniaschool.com.co/wp-content/uploads/2021/07/img4-1536x800.png" className="imagenPortada" />
@@ -55,13 +58,13 @@ function Home() {
             <button><a href="#/Convenios">Leer más</a></button>
           </div>
         </div>
-        <div className="item">
+        {/* <div className="item">
           <img src="https://britanniaschool.com.co/Britannia_files/icon2-q5jj2n1xp9pylrrf7hwwr04vqavh4hkxib34yih538.png" />
           <div className="item-content">
             <p>Matrículas</p>
             <button><a href="#/AdmisionesMatriculas" >Fechas</a></button>
           </div>
-        </div>
+        </div> */}
         <div className="item">
           <img src="https://britanniaschool.com.co/Britannia_files/icon4-q5jj315ijs99fx6xx60baeksn2xzby4wk8vf5nw8hw.png" />
           <div className="item-content">
