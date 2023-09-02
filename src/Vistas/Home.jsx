@@ -155,7 +155,7 @@ function Home() {
                 {/* <button>Ver más</button> */}
               </div>
             </div>
-            <div class="content">
+            <div class="content content1">
               <div class="image-container">
                 <img
                   src="https://britanniaschool.com.co/imagenes/imagenHome6.png"
@@ -203,7 +203,7 @@ function Home() {
                 </p>
               </div>
             </div>
-            <div class="content">
+            <div class="content content1">
               <div class="image-container">
                 <img
                   src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
@@ -243,7 +243,7 @@ function Home() {
                 </p>
               </div>
             </div>
-            <div class="content">
+            <div class="content content1">
               <div class="image-container">
                 <img
                   src="https://britanniaschool.com.co/imagenes/imagenHome8.png"
@@ -284,7 +284,7 @@ function Home() {
                 </p>
               </div>
             </div>
-            <div class="content">
+            <div class="content content1">
               <div class="image-container">
                 <img
                   src="https://britanniaschool.com.co/imagenes/imagenHome5.png"
@@ -417,7 +417,7 @@ function Home() {
         </div>
       </div> */}
 
-      <div className="custom-div">
+      {/* <div className="custom-div">
         <div className="columnInfo">
           <h2>Convenios</h2>
         </div>
@@ -425,7 +425,7 @@ function Home() {
           <h2>Respaldo y apoyo:</h2>
           <h2>Cambridge University Press</h2>
         </div>
-      </div>
+      </div> */}
 
       <Footer></Footer>
     </div>

@@ -18,12 +18,12 @@ export default function Nosotros() {
         <p className="text-justifyNosotros">La INSTITUCION BRITANNIA SCHOOL es un colegio de educación formal con énfasis en inglés, comprometidos con la formación de ciudadanos del mundo, bilingües, humanistas y preparados para aportar en la construcción de una mejor sociedad.</p>
       </div>
       <div className="colNosotros">
-        <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/china.png" />
+        <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/imagenNosotos2.png" />
       </div>
     </div>
     <div className="rowNosotros">
       <div className="colNosotros">
-        <img className="centered-image" src="https://britanniaschool.com.co/wp-content/uploads/2021/08/IMG-20210723-WA0039-1024x766.jpg" />
+        <img className="centered-image" src="https://britanniaschool.com.co/wp-content/uploads/2021/08/imagenNosotos1.png" />
       </div>
       <div className="colNosotros">
         <h2 className="blue-textNosotros">Visión</h2>
