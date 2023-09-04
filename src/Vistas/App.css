@@ -449,30 +449,33 @@ border-bottom: 3px solid #4a75ff;
 /* CSS DE LA VISTA DE NOSOTROS */
 .containerNosotros {
   display: flex;
-  justify-content: space-around; /* Espacio igual entre las columnas */
+  justify-content: space-between; /* Espacio igual entre las columnas */
 }
 
 .rowNosotros {
   display: flex;
-  justify-content: space-around; /* Distribuye las columnas con espacio entre ellas */
+  justify-content: space-between; /* Distribuye las columnas con espacio entre ellas */
 }
 
 .colNosotros {
-  flex: 1; /* Cada columna ocupa el mismo espacio */
-  margin-right: 20px; /* Espacio entre las columnas */
+  flex: 1;
+  padding: 0 10px 0 5px;
+  box-sizing: border-box;
 }
 
 
 .videoeducativo{
-  width: 100%;
+  position: relative;
+  top: 10%;
   box-sizing: border-box;
   margin: 0;
 
 }
 
 .imagenidioma{
-  width: 50%;
-  height: 80%;}
+  width: 90%;
+  height: 100%;
+}
 
 .blue-textNosotros {
   color: #4a75ff;

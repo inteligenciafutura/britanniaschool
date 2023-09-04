@@ -14,7 +14,7 @@ export default function AdmisionesMatriculas() {
 
       <div className="containerNosotros">
         <div className="containerMatriculas">
-        <div className="columnMatriculas">
+          <div className="columnMatriculas">
             <img
               className="imgMatriculas"
               src="https://britanniaschool.com.co/imagenes/admision1.png"
@@ -40,8 +40,6 @@ export default function AdmisionesMatriculas() {
               <button type="submit">Enviar</button>
             </div>
           </div>
-
-          
         </div>
       </div>
       <Footer></Footer>

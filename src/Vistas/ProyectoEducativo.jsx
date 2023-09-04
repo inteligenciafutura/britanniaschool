@@ -16,16 +16,17 @@ export default function ProyectoEducativo() {
         <div className="rowNosotros">
           <div className="colNosotros">
             <img
-              src="https://britanniaschool.com.co/imagenes/bannerAzul.png"
+              src="https://britanniaschool.com.co/imagenes/bannerAzul1.png"
               className="imagenidioma"
             />
           </div>
         </div>
 
-        <div className="rowNosotros">
           <div className="colNosotros">
             <div className="videoeducativo">
             <iframe
+              width={540}
+              height={350}
               src="https://www.youtube.com/embed/D3j_5s52z50?si=hXrSGzbcwMMAhx1o"
               title="YouTube video player"
               frameborder="0"
@@ -34,7 +35,6 @@ export default function ProyectoEducativo() {
             ></iframe>
             </div>
           </div>
-        </div>
       </div>
 
       <Footer></Footer>
