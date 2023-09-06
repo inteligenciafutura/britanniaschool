@@ -11,11 +11,13 @@ export default function VidaEnColegio() {
     <div>
     <Header></Header>
     <Menu></Menu>
-    <img src='https://www.inteligenciafutura.com/Britania/wp-content/uploads/2021/08/banner-solo-vida-en-el-cole-07.png' className='imagenNosotros' />
+    <img src='https://britanniaschool.com.co/imagenes/2021/08/banner-solo-vida-en-el-cole-07.png' className='imagenNosotros' />
 
-    <div class="containerNosotros">
+    <div class="containeVidaColegio">
 
+    <div className='infoVidaColegio'>
     En Britania School, reconocemos que el bienestar emocional y social, la resiliencia y el desarrollo positivo de todos los estudiantes, es tan importante como recibir una excelente educación académicamente. Nuestras enseñanzas académicas inculcan a nuestros estudiantes la determinación y el carácter para triunfar.
+    </div>
 
     <h1 className='titulosVida'>Mi experiencia en el Britannia School ha sido asombrosa. He tenido la oportunidad de mejorar mi inglés y ahora puedo tener conversaciones con mis profesores y compañeros de clase.</h1>
 
@@ -159,7 +161,7 @@ export default function VidaEnColegio() {
     <br></br>
     <div class="containerVida">
     <div class="image-containerVida">
-      <img src="https://britanniaschool.com.co/vida_en_el_colegio%20%E2%80%93%20Britannia_files/gabri.png" />
+      <img src="https://britanniaschool.com.co/imagenes/gabri.png" />
     </div>
     <div class="text-containerVida">
       <div class="titleVida">GABRIELA VILLAMIZAR</div>
@@ -174,7 +176,7 @@ export default function VidaEnColegio() {
     <br></br>
     <div class="containerVida">
     <div class="image-containerVida">
-      <img src="https://britanniaschool.com.co/vida_en_el_colegio%20%E2%80%93%20Britannia_files/mari.png" />
+      <img src="https://britanniaschool.com.co/imagenes/mari.png" />
     </div>
     <div class="text-containerVida">
       <div class="titleVida">MARIA GABRIELA AMAYA</div>

@@ -12,29 +12,28 @@ export default function ProyectoEducativo() {
       <Header></Header>
       <Menu></Menu>
 
-      <div class="containerNosotros">
-        <div className="rowNosotros">
-          <div className="colNosotros">
-            <img
-              src="https://britanniaschool.com.co/imagenes/bannerAzul1.png"
-              className="imagenidioma"
-            />
-          </div>
-        </div>
-
-          <div className="colNosotros">
-            <div className="videoeducativo">
-            <iframe
-              width={540}
-              height={350}
-              src="https://www.youtube.com/embed/D3j_5s52z50?si=hXrSGzbcwMMAhx1o"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
+      <div>
+        <div>
+          <div>
+            <div className="imagen-container">
+              <img
+                src="https://britanniaschool.com.co/imagenes/bannerAzul1.png"
+                className="imagenidioma"
+                alt="Imagen Educativa"
+              />
+              <div className="videoeducativo">
+                <iframe
+                  width={440}
+                  height={250}
+                  src="https://www.youtube.com/embed/D3j_5s52z50?si=hXrSGzbcwMMAhx1o"
+                  title="YouTube video player"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                ></iframe>
+              </div>
             </div>
           </div>
+        </div>
       </div>
 
       <Footer></Footer>

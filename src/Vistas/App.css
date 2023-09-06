@@ -456,8 +456,7 @@ border-bottom: 3px solid #4a75ff;
 }
 
 
-
-/* CSS DE LA VISTA DE NOSOTROS */
+/* CSS DE NOSOTROS */
 .containerNosotros {
   display: flex;
   justify-content: space-between; /* Espacio igual entre las columnas */
@@ -477,34 +476,38 @@ border-bottom: 3px solid #4a75ff;
   box-sizing: border-box;
 }
 
-
-.videoeducativo{
-  position: relative;
-  top: 10%;
-  box-sizing: border-box;
-  margin: 0;
-
-}
-
-.imagenidioma{
-  width: 90%;
-  height: 100%;
-}
-
 .blue-textNosotros {
   color: #4a75ff;
-}
-
-.centered-image {
-  display: block;
-  margin: 0 auto;
-  width: 486px;
-  height: 305px;
 }
 
 .text-justifyNosotros {
   text-align: justify;
 }
+
+.centered-image{
+  width: 486px;
+  height: 305px;
+}
+
+/* CSS DE LA VISTA DE PROYECTO EDUCATIVO */
+.imagen-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.imagenidioma {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.videoeducativo {
+  position: absolute;
+  bottom: 150px;
+  left: 10px;
+}
+
 
 
 
@@ -512,6 +515,13 @@ border-bottom: 3px solid #4a75ff;
 /* PANTALLA DE VIDA EN EL COLEGIO */
 .titulosVida{
   text-align: center;
+}
+
+.infoVidaColegio{
+  width: 80%;
+  margin:0 auto;
+  text-align: justify;
+  padding: 10px;
 }
 
 .containerVida {
