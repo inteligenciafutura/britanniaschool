@@ -73,7 +73,6 @@
 
 .item {
   width: 25%;
-  height: 150px;
   display: flex;
   align-items: center;
   padding: 6px;
@@ -762,6 +761,7 @@ border-bottom: 3px solid #4a75ff;
       flex-direction: column; /* Cambia la dirección a vertical */
       max-width: 100%; /* Ocupa todo el ancho */
       margin-bottom: 20px; /* Espacio entre los "cards" */
+      height: auto;
     }
   
     .image-container {
@@ -813,4 +813,33 @@ border-bottom: 3px solid #4a75ff;
     .logoFooter{
       right: inherit !important;
     }
+
+    .imagenNosotros {
+      height: auto;
+      width: 100%;
+  }
+
+  .containerNosotros{
+    visibility: collapse;
+    width: 0;
+    height: 0;
+  }
+
+  /* Estilos para .rowNosotros para mostrar el contenido en filas */
+  .rowNosotros {
+    display: flex;
+    flex-direction: column; /* Cambia la dirección de flexbox a column para mostrar los elementos en filas */
+  }
+
+  /* Estilos para .text-justifyNosotros para ajustarse al ancho del contenedor */
+  .text-justifyNosotros {
+    width: 90%; /* Ajusta el ancho al 100% del contenedor */
+    margin-left: 0; /* Elimina el margen izquierdo para ocupar todo el ancho */
+  }
+
+
+  
+  .nosotrosResponsive{
+    width: 100% !important;
+  }
 }

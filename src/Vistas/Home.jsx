@@ -88,7 +88,7 @@ function Home() {
         </div>
         <div className="item">
           <img
-            className="icono"
+            className="icono imagenColores"
             src="https://britanniaschool.com.co/imagenes/Iconos-01.png"
           />
           <div className="item-content">
@@ -100,7 +100,7 @@ function Home() {
         </div>
         <div className="item">
           <img
-            className="icono"
+            className="icono imagenColores"
             src="https://britanniaschool.com.co/imagenes/Iconos-02.png"
           />
           <div className="item-content">
@@ -112,7 +112,7 @@ function Home() {
         </div>
         <div className="item">
           <img
-            className="icono"
+            className="icono imagenColores"
             src="https://britanniaschool.com.co/imagenes/Iconos-03.png"
           />
           <div className="item-content">
