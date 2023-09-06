@@ -21,28 +21,28 @@ export default function Kindergarten() {
               dynamicHeight={true}
             >
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/90053932_2530468213931182_6372729829350965248_n-1.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/90053932_2530468213931182_6372729829350965248_n-1.jpg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/90114645_2530468163931187_4782156371372015616_n-1.jpg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/90114645_2530468163931187_4782156371372015616_n-1.jpg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-1-1.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-1-1.jpeg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-2.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-2.jpeg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.13.58-AM-2.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.58-AM-2.jpeg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-1-1.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-1-1.jpeg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-4.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-4.jpeg" />
               </div>
               <div>
-                <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-2-1.jpeg" />
+                <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-2-1.jpeg" />
               </div>
             </Carousel>
           </div>
@@ -81,22 +81,22 @@ Interpretamos y planificamos un plan de estudios de tal manera que facilite las 
     dynamicHeight={true}
   >
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/3-2.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/3-2.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/1-3.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/1-3.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/2-2.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/2-2.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/3-2.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/3-2.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/4-2.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/4-2.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/5-2.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/5-2.jpeg" />
     </div>
   </Carousel>
   </div>
@@ -111,22 +111,22 @@ Interpretamos y planificamos un plan de estudios de tal manera que facilite las 
     dynamicHeight={true}
   >
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/1-4.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/1-4.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/2-3.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/2-3.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/3-3.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/3-3.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/5-3.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/5-3.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/6-1.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/6-1.jpeg" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/wp-content/uploads/2021/08/8-1.jpeg" />
+      <img src="https://britanniaschool.com.co/imagenes/2021/08/8-1.jpeg" />
     </div>
   </Carousel>
   </div>

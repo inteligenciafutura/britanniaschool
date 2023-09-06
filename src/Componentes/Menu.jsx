@@ -11,7 +11,7 @@ export default function Menu() {
             <a href="#/VidaEnColegio">Vida en el colegio</a>
             <a href="#/AdmisionesMatriculas">Admisiones & Matrículas</a>
             <a href="#/Blog">Blog</a>
-            <a className='webColoegio' href="https://www.webcolegios.com/eaglehillschool/"><img src="https://britanniaschool.com.co/wp-content/uploads/2021/09/logo_webcolegios.png" className='imgWeb' /></a>
+            <a className='webColoegio' href="https://www.webcolegios.com/eaglehillschool/"><img src="https://britanniaschool.com.co/imagenes/2021/09/logo_webcolegios.png" className='imgWeb' /></a>
 
         </div>
         <div className="social-icons">

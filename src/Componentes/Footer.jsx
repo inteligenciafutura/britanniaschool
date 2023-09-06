@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="custom-footer">
         <div className="footer-column">
-          <img src="https://britanniaschool.com.co/Britannia_files/logoBritania.svg" />
+          <img src="https://britanniaschool.com.co/imagenes/logoBritania.svg" className="logoFooter" />
         </div>
         <div className="footer-column1">
           <p>
@@ -22,32 +22,29 @@ export default function Footer() {
         <div className="footer-column">
           <a href="#">
             <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices_Mesa-de-trabajo-1-q5jjeb7sbfxufv6d69cwscc922i7yu9sxps58x2pto.png"
-              className="social"
+              src="https://britanniaschool.com.co/imagenes/facebook.png"
             />
           </a>
           <a href="#">
             <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-02-q5jjduaowfaomvuxx21mjglyd4tm4aemve1elxrsxo.png"
-              className="social"
+              src="https://britanniaschool.com.co/imagenes/instagram.png"
             />
           </a>
           <a href="#">
             <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-03-q5jjdzxq1fiekjmr04hdyf6pxg1teh10w5ybhljfwc.png"
-              className="social"
+              src="https://britanniaschool.com.co/imagenes/twitter.png"
             />
           </a>
           <a href="#">
             <img
-              src="https://britanniaschool.com.co/Britannia_files/iconosgrices-04-q5jje5kr6fq4i7ek36x5ddrhhra0onnewxv8d9b2v0.png"
+              src="https://britanniaschool.com.co/imagenes/linkedin.png"
               className="social"
             />
           </a>
           <a href="https://api.whatsapp.com/send?phone=573153233611&amp;text=Hola,%20en%20que%20te%20puedo%20ayudar?">
             <img
-              src="https://britanniaschool.com.co/wp-content/uploads/2021/07/iconoWhatshapp-150x150.png"
-              className="social1"
+              src="https://britanniaschool.com.co/imagenes/2021/07/iconoWhatshapp-150x150.png"
+              className="whatsapp"
             />
           </a>
           
