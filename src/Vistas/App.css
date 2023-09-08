@@ -14,6 +14,42 @@
   width: 100%;
 }
 
+.logoMenuResponsive{
+  width: 100%;
+}
+
+/* Estilos para el menú */
+.menuMenu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0f0f0; /* Color de fondo */
+  padding: 10px;
+  border-radius: 30px; /* Borde redondeado */
+}
+
+/* Estilos para los botones */
+.botonMobile {
+  text-decoration: none;
+  color: #fff; /* Color del texto */
+  background-color: #007bff; /* Color de fondo del botón */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border-radius: 20px; /* Borde redondeado del botón */
+  margin: 5px 0; /* Margen vertical entre botones */
+  width: 80%; /* Ancho del 80% */
+  text-align: center; /* Centrar texto horizontalmente */
+  transition: background-color 0.3s ease; /* Transición suave del color de fondo */
+}
+
+/* Estilos para el hover de los botones */
+.botonMobile:hover {
+  background-color: #0056b3; /* Color de fondo al pasar el ratón por encima */
+}
+
+.contentMobile{
+  height: 700px !important;
+}
+
 /* PRIMARYSCHOOL */
 /* Estilo para el contenedor principal */
 .contenedorPrimarySchool {

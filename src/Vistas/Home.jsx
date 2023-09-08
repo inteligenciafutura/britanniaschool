@@ -153,7 +153,7 @@ function Home() {
       {isMobile ? (
         <div>
           <Carousel showThumbs={false} autoPlay={true} infiniteLoop={true}>
-            <div class="content">
+            <div class="content contentMobile">
               <div class="image-container">
                 <img
                   src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
@@ -173,7 +173,7 @@ function Home() {
                 </p>
               </div>
             </div>
-            <div class="content content1">
+            <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome6.png"
@@ -195,7 +195,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content">
+              <div class="content contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome3.png"
@@ -217,7 +217,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content content1">
+              <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
@@ -237,7 +237,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content">
+              <div class="content contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome2.png"
@@ -254,7 +254,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content content1">
+              <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/Colegiocampestre.png"
@@ -271,7 +271,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content">
+              <div class="content contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome4.png"
@@ -291,7 +291,7 @@ function Home() {
                   </p>
                 </div>
               </div>
-              <div class="content content1">
+              <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
                     src="https://britanniaschool.com.co/imagenes/imagenHome5.png"

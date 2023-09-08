@@ -66,13 +66,28 @@ export default function SecundarySchool() {
               <img src="https://britanniaschool.com.co/imagenes/SecundarySchool3.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoo4.png" />
-            </div>
-            <div>
               <img src="https://britanniaschool.com.co/imagenes/SecundarySchool5.png" />
             </div>
             <div>
               <img src="https://britanniaschool.com.co/imagenes/SecundarySchool6.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew1.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew2.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew3.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew4.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew5.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew6.png" />
             </div>
           </Carousel>
           <center>
@@ -138,6 +153,24 @@ export default function SecundarySchool() {
     <div>
       <img src="https://britanniaschool.com.co/imagenes/SecundarySchool6.png" />
     </div>
+    <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew1.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew2.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew3.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew4.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew5.png" />
+            </div>
+            <div>
+              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew6.png" />
+            </div>
   </Carousel>
               </center>
             </div>
