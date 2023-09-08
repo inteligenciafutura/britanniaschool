@@ -123,6 +123,9 @@ export default function AdmisionesMatriculas() {
                 Enviar
               </button>
             </div>
+            <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
         </div>
       ) : (
         <div class="contenedorAdmisionesMatriculas">

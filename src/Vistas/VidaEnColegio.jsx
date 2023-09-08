@@ -419,7 +419,9 @@ export default function VidaEnColegio() {
               </Carousel>
             </div>
           </div>
-
+          <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
         </div>
       ) : (
         <div class="containeVidaColegio">

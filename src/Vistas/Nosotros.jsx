@@ -56,6 +56,9 @@ export default function Nosotros() {
               <img src="https://britanniaschool.com.co/imagenes/2021/08/tim-mossholder-WE_Kv_ZB1l0-unsplash-1024x683.jpg" className='imagenNosotros' alt="Imagen" />
             </div>
           </div>
+          <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
         </div>
       ) : (
         // Renderiza el contenido para pantallas mayores a 768px

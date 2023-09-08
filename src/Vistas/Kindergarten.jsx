@@ -86,6 +86,9 @@ export default function Kindergarten() {
               allowfullscreen
             ></iframe>
           </center>
+          <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
         </div>
       ) : (
         <div>
@@ -124,7 +127,7 @@ export default function Kindergarten() {
                   </div>
                 </Carousel>
               </div>
-              <div className="colNosotros">
+              <div className="colNosotros gris">
                 <h2 className="blue-textNosotros">Preescolar</h2>
                 <p className="text-justifyNosotros">
                   Britannia School adopta un enfoque de aprendizaje temprano en
@@ -143,7 +146,7 @@ export default function Kindergarten() {
               </div>
             </div>
           </div>
-
+<br></br>
           <center>
             <iframe
               width="560"

@@ -9,6 +9,17 @@
   width: 38%;
 }
 
+.gris{
+  background-color: #e0e0e0 !important;
+}
+
+.volver{
+  margin-left: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #e0e0e0 !important;
+}
+
 .imagenPortada{
   height: 510px;
   width: 100%;

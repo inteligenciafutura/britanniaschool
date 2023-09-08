@@ -105,6 +105,10 @@ export default function Blog() {
         </div>
       </div>
 
+      <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
+          
       <Footer></Footer>
     </div>
   );

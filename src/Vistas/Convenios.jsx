@@ -29,9 +29,14 @@ export default function Convenios() {
       <Menu></Menu>
 
       {isMobile ? (
+        <div>
          <img
            src="https://britanniaschool.com.co/imagenes/bannerVerde.png" className="imagenConvenioResponsive"
          />
+         <br></br><br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
+         </div>
       ) : (
         <img
           src="https://britanniaschool.com.co/imagenes/bannerVerde.png"

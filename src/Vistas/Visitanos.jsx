@@ -89,6 +89,9 @@ export default function Visitanos() {
             />
           </div>
         </Carousel>
+        <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
       </div> : <div>
       <div className="centeredContainer">
         <div className="containerVisitanos">

@@ -101,6 +101,9 @@ export default function SecundarySchool() {
               allowfullscreen
             ></iframe>
           </center>
+          <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
         </div>
       ) : (
         <div>
