@@ -12,7 +12,40 @@
 .imagenPortada{
   height: 510px;
   width: 100%;
+}
 
+/* PRIMARYSCHOOL */
+/* Estilo para el contenedor principal */
+.contenedorPrimarySchool {
+  display: flex; /* Usamos flexbox para crear dos columnas */
+  width: 1300px; /* Ancho máximo del contenedor */
+  margin: 0 auto; /* Centrar el contenedor en la página */
+  padding: 20px; /* Espaciado interior para mejor legibilidad */
+  height: 900px;
+}
+
+/* Estilo para la columna izquierda */
+.columnaPrimarySchool.izquierdaPrimarySchool {
+  width: 650px; /* Ancho de la columna izquierda */
+  padding: 10px; /* Espaciado interior */
+  background-color: #f2f2f2; /* Color de fondo */
+  height: 800px;
+}
+
+/* Estilo para la columna derecha */
+.columnaPrimarySchool.derechaPrimarySchool {
+  width: 650px; /* Ancho de la columna derecha */
+  padding: 10px; /* Espaciado interior */
+  background-color: #e0e0e0; /* Color de fondo */
+  height: 800px;
+}
+
+.colPrimary{
+  width: 350px;
+}
+
+.primaryImagen{
+  
 }
 
 .imagenConvenio{
@@ -405,9 +438,8 @@
 
 .menu-column a:hover {
   color: #312782;
-  font-weight: 700;
   border-top: 3px solid #312782;
-  line-height: 80px;
+  line-height: 50px;
 }
 
 .social-icons {
@@ -601,6 +633,20 @@ border-bottom: 3px solid #4a75ff;
   flex-direction: column;
 }
 
+.form-containerMatriculasResponsive {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.form-containerMatriculasResponsive input,
+.form-containerMatriculasResponsive select,
+.form-containerMatriculasResponsive button {
+  margin: 5px 0;
+  padding: 5px;
+}
+
 .form-containerMatriculas input,
 .form-containerMatriculas select,
 .form-containerMatriculas button {
@@ -643,8 +689,14 @@ border-bottom: 3px solid #4a75ff;
 }
 
 /* CONVENIOS */
-.imagenConvenios{
+.imagenConvenio{
   width: 100%;
+  height: auto;
+}
+
+.imagenConvenioResponsive{
+  width: 100% !important;
+  height: auto;
 }
 
 .tituloConvenios{
@@ -654,6 +706,32 @@ border-bottom: 3px solid #4a75ff;
 .textoCovenios{
   width: 80%;
   margin: 0 auto;
+}
+
+/* AdmisionesMatriculas */
+/* Estilo para el contenedor principal */
+.contenedorAdmisionesMatriculas {
+  display: flex; /* Usamos flexbox para crear dos columnas */
+  justify-content: space-between; /* Espacio entre las columnas */
+  max-width: 800px; /* Ancho máximo del contenedor */
+  margin: 0 auto; /* Centrar el contenedor en la página */
+  padding: 20px; /* Espaciado interior para mejor legibilidad */
+}
+
+/* Estilo para la columna izquierda */
+.columnaAdmisionesMatriculas.izquierdaAdmisionesMatriculas {
+  flex-basis: 48%; /* Ancho de la columna izquierda */
+  padding: 10px; /* Espaciado interior */
+  background-color: #f2f2f2; /* Color de fondo */
+  color: #fff;
+}
+
+/* Estilo para la columna derecha */
+.columnaAdmisionesMatriculas.derechaAdmisionesMatriculas {
+  flex-basis: 48%; /* Ancho de la columna derecha */
+  padding: 10px; /* Espaciado interior */
+  background-color: #312782; /* Color de fondo */
+  color: #fff;
 }
 
 
@@ -835,10 +913,13 @@ border-bottom: 3px solid #4a75ff;
   .text-justifyNosotros {
     width: 90%; /* Ajusta el ancho al 100% del contenedor */
     margin-left: 0; /* Elimina el margen izquierdo para ocupar todo el ancho */
+    padding: 5px;
   }
 
+  .text-justifyNosotrosResponsive{
+    padding: 10px;
+  }
 
-  
   .nosotrosResponsive{
     width: 100% !important;
   }

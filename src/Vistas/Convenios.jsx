@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Header from "../Componentes/Header";
 import Menu from "../Componentes/Menu";
 import Footer from "../Componentes/Footer";
@@ -6,32 +6,38 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 import { Carousel } from "react-responsive-carousel";
 
 export default function Convenios() {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768); // Cambia 768 por la resolución deseada
+    };
+
+    // Agrega un event listener para detectar cambios en el tamaño de la pantalla
+    window.addEventListener("resize", handleResize);
+    handleResize(); // Llama a la función para verificar el tamaño inicial
+
+    // Limpia el event listener cuando el componente se desmonta
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
   return (
     <div>
       <Header></Header>
       <Menu></Menu>
 
-      <img
-        src="https://britanniaschool.com.co/imagenes/bannerVerde.png"
-        className="imagenConvenio"
-      />
-
-      {/* <h2 className="tituloConvenios">Convenios</h2>
-
-      <div className="textoCovenios">
-        <h2>BRITANNIA SCHOOL Y CAMBRIDGE.</h2>
-        <br></br>
-        El Colegio Britania School cuenta con un convenio académico y
-        acompañamiento permanente con Cambridge University Press, para el
-        mejoramiento de las diferentes habilidades del idioma inglés.
-        <br></br>
-        Desde el grado preescolar hasta undécimo, se trabajan con materiales
-        exclusivos: libros de texto, acceso a la plataforma virtual, Cambridge
-        Learning Machine System, acompañamiento y capacitación a los docentes y
-        preparación para la presentación de los exámenes internacionales.
-        <br></br>
-        <br></br>
-      </div> */}
+      {isMobile ? (
+         <img
+           src="https://britanniaschool.com.co/imagenes/bannerVerde.png" className="imagenConvenioResponsive"
+         />
+      ) : (
+        <img
+          src="https://britanniaschool.com.co/imagenes/bannerVerde.png"
+          className="imagenConvenio"
+        />
+      )}
 
       <Footer></Footer>
     </div>
