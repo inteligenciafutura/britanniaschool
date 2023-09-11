@@ -36,28 +36,28 @@ export default function Kindergarten() {
                   dynamicHeight={true}
                 >
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/90053932_2530468213931182_6372729829350965248_n-1.jpg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew1.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/90114645_2530468163931187_4782156371372015616_n-1.jpg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew2.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-1-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew3.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-2.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew4.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.58-AM-2.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew5.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-1-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew6.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-4.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew7.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-2-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew8.png" />
                   </div>
                 </Carousel>
                 <h2 className="blue-textNosotros">Preescolar</h2>
@@ -92,63 +92,67 @@ export default function Kindergarten() {
         </div>
       ) : (
         <div>
-          <div class="containerNosotros">
-            <div className="rowNosotros">
+          <div class="contenedorPrimarySchool">
+            <div class="columnaPrimarySchool izquierdaPrimarySchool">
               <div className="colNosotros">
-                <Carousel
+                <h2 className="blue-textNosotros">Preescolar</h2>
+                <p className="text-justifyNosotros">
+                  Britannia School adopta un enfoque de aprendizaje temprano en
+                  el que el niño y la niña se coloca en el centro de su
+                  aprendizaje en un entorno seguro y acogedor.<br></br>
+                  Se invita a los niños pequeños de tres a seis años a explorar su entorno y
+                  expresarse a través de muchos “lenguajes” o diferentes formas
+                  de expresión, que incluyen palabras, movimiento, dibujo,
+                  pintura, escultura, juego de sombras, collage y música. <br></br> 
+                  Se acompaña a los niños a participar en su curiosidad innata y
+                  cada variación en la investigación se considera valiosa.<br></br>
+                  Nuestro idioma predomínate de la enseñanza es el inglés.<br></br>
+                  Buscamos formar niños felices, seguros de sí mismos, con
+                  respeto por la naturaleza y con un aprendizaje éxitos.<br></br>
+                </p>
+              </div>
+            </div>
+            <div class="columnaPrimarySchool derechaPrimarySchool">
+            
+              <Carousel
                   showThumbs={true}
                   autoPlay={true}
                   infiniteLoop={true}
                   dynamicHeight={true}
                 >
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/90053932_2530468213931182_6372729829350965248_n-1.jpg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew1.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/90114645_2530468163931187_4782156371372015616_n-1.jpg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew2.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-1-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew3.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.06.27-AM-2.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew4.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.58-AM-2.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew5.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-1-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew6.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-4.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew7.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.13.59-AM-2-1.jpeg" />
+                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew8.png" />
                   </div>
                 </Carousel>
               </div>
-              <div className="colNosotros gris">
-                <h2 className="blue-textNosotros">Preescolar</h2>
-                <p className="text-justifyNosotros">
-                  Britannia School adopta un enfoque de aprendizaje temprano en
-                  el que el niño y la niña se coloca en el centro de su
-                  aprendizaje en un entorno seguro y acogedor. Se invita a los
-                  niños pequeños de tres a seis años a explorar su entorno y
-                  expresarse a través de muchos “lenguajes” o diferentes formas
-                  de expresión, que incluyen palabras, movimiento, dibujo,
-                  pintura, escultura, juego de sombras, collage y música. Se
-                  acompaña a los niños a participar en su curiosidad innata y
-                  cada variación en la investigación se considera valiosa.
-                  Nuestro idioma predomínate de la enseñanza es el inglés.
-                  Buscamos formar niños felices, seguros de sí mismos, con
-                  respeto por la naturaleza y con un aprendizaje éxitos.
-                </p>
-              </div>
+              
             </div>
           </div>
-<br></br>
-          <center>
-            <iframe
+      )}
+
+<center>
+<iframe
               width="560"
               height="315"
               src="https://www.youtube.com/embed/uIGbulVstqk?si=MvhW_9eDs7FaAvnj"
@@ -157,9 +161,11 @@ export default function Kindergarten() {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowfullscreen
             ></iframe>
-          </center>
-        </div>
-      )}
+            </center>
+
+<br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
 
       <br></br>
       <Footer></Footer>

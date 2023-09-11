@@ -343,6 +343,10 @@ export default function PrimarySchool() {
           <br></br>
 
           <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
+
+          <br></br>
         </div>
       )}
 

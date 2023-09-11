@@ -83,6 +83,10 @@ export default function ProyectoEducativo() {
       </div>
       )}
 
+<br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
+
       <Footer></Footer>
     </div>
   );

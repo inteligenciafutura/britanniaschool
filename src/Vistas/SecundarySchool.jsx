@@ -32,22 +32,17 @@ export default function SecundarySchool() {
           <div className="colPrimary">
             <h2 className="blue-textNosotros">Educación secundaria</h2>
             <p className="text-justifyNosotros">
-              Los estudiantes participan en seminarios de carreras y de
-              experiencia laboral.<br></br>
-              La diferencia de Britannia School se basa en la evidencia que
-              todos los estudiantes tienen diferentes habilidades, preferencias
-              de aprendizaje e intereses individuales.<br></br>
-              Nuestra principal creencia es que todos los estudiantes dentro de
-              un salón de clases pueden aprender de manera efectiva cuando están
-              motivados e interesados.<br></br>
-              Interpretamos y planificamos un plan de estudios de tal manera que
-              facilite las fortalezas de los estudiantes.<br></br>
-              Al hacerlo, se motiva a nuestros maestros a desarrollar unas guías
-              de trabajo e instrucción, variedades de materiales didácticos y
-              medidas de evaluación.<br></br>
-              Lo que asegura que nuestro entorno de enseñanza sea inclusivo y
-              prepara a todos los estudiantes para la excelencia académica y que
-              alcancen su máximo potencial.<br></br>
+            Los estudiantes participan en seminarios de carreras y de experiencia laboral.<br></br>
+
+La diferencia de Britannia School se basa en la evidencia que todos los estudiantes tienen diferentes habilidades, preferencias de aprendizaje e intereses individuales.<br></br>
+
+Nuestra principal creencia es que todos los estudiantes dentro de un salón de clases pueden aprender de manera efectiva cuando están motivados e interesados.<br></br>
+
+Interpretamos y planificamos un plan de estudios de tal manera que facilite las fortalezas de los estudiantes.<br></br>
+
+Al hacerlo, se motiva a nuestros maestros a desarrollar unas guías de trabajo e instrucción, variedades de materiales didácticos y medidas de evaluación.<br></br>
+
+Lo que asegura que nuestro entorno de enseñanza sea inclusivo y prepara a todos los estudiantes para la excelencia académica y que alcancen su máximo potencial.<br></br>
             </p>
           </div>
           <Carousel
@@ -91,15 +86,7 @@ export default function SecundarySchool() {
             </div>
           </Carousel>
           <center>
-            <iframe
-              width="315"
-              height="315"
-              src="https://www.youtube.com/embed/K4tUdImFEXU?si=X6l4mDlODOQi_3Cv"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
+          <iframe width="315" height="315" src="https://www.youtube.com/embed/K4tUdImFEXU?si=ATAiRqXEaFr4IS5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </center>
           <br></br>
           <a href='#' className='volver'>Volver</a>
@@ -110,23 +97,19 @@ export default function SecundarySchool() {
           <div class="contenedorPrimarySchool">
             <div class="columnaPrimarySchool izquierdaPrimarySchool">
               <div className="colNosotros">
-                <h2 className="blue-textNosotros">Educación básica primaria</h2>
+                <h2 className="blue-textNosotros">Educación secundaria</h2>
                 <p className="text-justifyNosotros">
-                  La diferencia de Britannia School se basa en la evidencia que
-                  todos los estudiantes tienen diferentes habilidades,
-                  preferencias de aprendizaje e intereses individuales.<br></br>
-                  <br></br>
-                  Nuestra principal creencia es que todos los estudiantes dentro
-                  de un salón de clases pueden aprender de manera efectiva
-                  cuando están motivados e interesados.<br></br>
-                  <br></br>
-                  Interpretamos y planificamos un plan de estudios de tal manera
-                  que facilite las fortalezas de los estudiantes. Al hacerlo, se
-                  motiva a nuestros maestros a desarrollar unas guías de trabajo
-                  e instrucción, variedades de materiales didácticos y medidas
-                  de evaluación. Lo que asegura que nuestro entorno de enseñanza
-                  sea inclusivo y prepara a todos los estudiantes para la
-                  excelencia académica y que alcancen su máximo potencial.
+                Los estudiantes participan en seminarios de carreras y de experiencia laboral.<br></br>
+
+La diferencia de Britannia School se basa en la evidencia que todos los estudiantes tienen diferentes habilidades, preferencias de aprendizaje e intereses individuales.<br></br>
+
+Nuestra principal creencia es que todos los estudiantes dentro de un salón de clases pueden aprender de manera efectiva cuando están motivados e interesados.<br></br>
+
+Interpretamos y planificamos un plan de estudios de tal manera que facilite las fortalezas de los estudiantes.<br></br>
+
+Al hacerlo, se motiva a nuestros maestros a desarrollar unas guías de trabajo e instrucción, variedades de materiales didácticos y medidas de evaluación.<br></br>
+
+Lo que asegura que nuestro entorno de enseñanza sea inclusivo y prepara a todos los estudiantes para la excelencia académica y que alcancen su máximo potencial.<br></br>
                 </p>
               </div>
             </div>
@@ -180,18 +163,14 @@ export default function SecundarySchool() {
           </div>
 
           <center>
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/0ZbdO-iW294?si=16vX4ezD8GnUdcyP"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/K4tUdImFEXU?si=ATAiRqXEaFr4IS5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </center>
 
           <br></br>
+
+          <br></br>
+          <a href='#' className='volver'>Volver</a>
+          <br></br><br></br>
 
           <br></br>
         </div>
