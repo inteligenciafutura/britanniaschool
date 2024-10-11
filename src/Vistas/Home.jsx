@@ -39,37 +39,37 @@ function Home() {
       >
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/Britannia1.png"
+            src="https://britanniaschool.co.com/imagenes/Britannia1.png"
             className="imagenPortada"
           />
         </div>
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/2021/07/img4-1536x800.png"
+            src="https://britanniaschool.co.com/imagenes/2021/07/img4-1536x800.png"
             className="imagenPortada"
           />
         </div>
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/2022/10/df075e43-109b-4c36-a4c6-4b4fcd4daaf2.jpg"
+            src="https://britanniaschool.co.com/imagenes/2022/10/df075e43-109b-4c36-a4c6-4b4fcd4daaf2.jpg"
             className="imagenPortada"
           />
         </div>
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/2022/10/d38fc904-1a13-4296-b9e9-0999b555a86c-3.jpg"
+            src="https://britanniaschool.co.com/imagenes/2022/10/d38fc904-1a13-4296-b9e9-0999b555a86c-3.jpg"
             className="imagenPortada"
           />
         </div>
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/2021/07/img3-1024x533.png"
+            src="https://britanniaschool.co.com/imagenes/2021/07/img3-1024x533.png"
             className="imagenPortada"
           />
         </div>
         <div>
           <img
-            src="https://britanniaschool.com.co/imagenes/2021/07/img2-1536x800.png"
+            src="https://britanniaschool.co.com/imagenes/2021/07/img2-1536x800.png"
             className="imagenPortada"
           />
         </div>
@@ -78,7 +78,7 @@ function Home() {
       <div className="container">
         <div className="item">
           <img
-            src="https://britanniaschool.com.co/imagenes/icon3-150x150.png"
+            src="https://britanniaschool.co.com/imagenes/icon3-150x150.png"
             className="imagenColores"
           />
           <div className="item-content">
@@ -90,7 +90,7 @@ function Home() {
         </div>
         <div className="item">
           <img
-            src="https://britanniaschool.com.co/imagenes/icon1-150x150.png"
+            src="https://britanniaschool.co.com/imagenes/icon1-150x150.png"
             className="imagenColores"
           />
           <div className="item-content">
@@ -102,7 +102,7 @@ function Home() {
         </div>
         <div className="item">
           <img
-            src="https://britanniaschool.com.co/imagenes/icon2-150x150.png"
+            src="https://britanniaschool.co.com/imagenes/icon2-150x150.png"
             className="imagenColores"
           />
           <div className="item-content">
@@ -115,7 +115,7 @@ function Home() {
         <div className="item">
           <img
             className="icono imagenColores"
-            src="https://britanniaschool.com.co/imagenes/Iconos-01.png"
+            src="https://britanniaschool.co.com/imagenes/Iconos-01.png"
           />
           <div className="item-content">
             <p className="nombrecolor">Kidergarten</p>
@@ -127,7 +127,7 @@ function Home() {
         <div className="item">
           <img
             className="icono imagenColores"
-            src="https://britanniaschool.com.co/imagenes/Iconos-02.png"
+            src="https://britanniaschool.co.com/imagenes/Iconos-02.png"
           />
           <div className="item-content">
             <p className="nombrecolor">Primary school</p>
@@ -139,7 +139,7 @@ function Home() {
         <div className="item">
           <img
             className="icono imagenColores"
-            src="https://britanniaschool.com.co/imagenes/Iconos-03.png"
+            src="https://britanniaschool.co.com/imagenes/Iconos-03.png"
           />
           <div className="item-content">
             <p className="plan">Secondary school</p>
@@ -156,7 +156,7 @@ function Home() {
             <div class="content contentMobile">
               <div class="image-container">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
+                  src="https://britanniaschool.co.com/imagenes/imagenHome1.png"
                   className="estudiantesPortada"
                 />
               </div>
@@ -176,7 +176,7 @@ function Home() {
             <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome6.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome6.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -198,7 +198,7 @@ function Home() {
               <div class="content contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome3.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome3.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -220,7 +220,7 @@ function Home() {
               <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome1.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -240,7 +240,7 @@ function Home() {
               <div class="content contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome2.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome2.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -257,7 +257,7 @@ function Home() {
               <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/Colegiocampestre.png"
+                    src="https://britanniaschool.co.com/imagenes/Colegiocampestre.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -274,7 +274,7 @@ function Home() {
               <div class="content contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome4.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome4.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -294,7 +294,7 @@ function Home() {
               <div class="content content1 contentMobile">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome5.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome5.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -323,7 +323,7 @@ function Home() {
               <div class="content">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome1.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -344,7 +344,7 @@ function Home() {
               <div class="content content1">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome6.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome6.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -370,7 +370,7 @@ function Home() {
               <div class="content">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome3.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome3.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -392,7 +392,7 @@ function Home() {
               <div class="content content1">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome1.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome1.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -416,7 +416,7 @@ function Home() {
               <div class="content">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome2.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome2.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -433,7 +433,7 @@ function Home() {
               <div class="content content1">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/Colegiocampestre.png"
+                    src="https://britanniaschool.co.com/imagenes/Colegiocampestre.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -454,7 +454,7 @@ function Home() {
               <div class="content">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome4.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome4.png"
                     className="estudiantesPortada"
                   />
                 </div>
@@ -474,7 +474,7 @@ function Home() {
               <div class="content content1">
                 <div class="image-container">
                   <img
-                    src="https://britanniaschool.com.co/imagenes/imagenHome5.png"
+                    src="https://britanniaschool.co.com/imagenes/imagenHome5.png"
                     className="estudiantesPortada"
                   />
                 </div>

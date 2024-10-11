@@ -56,102 +56,102 @@ export default function PrimarySchool() {
           >
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew1.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew1.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew2.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew2.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew3.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew3.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew4.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew4.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew5.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew5.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew6.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew6.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew7.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew7.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew8.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew8.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew9.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew9.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew10.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew10.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew11.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew11.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew12.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew12.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew13.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew13.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew14.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew14.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew15.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew15.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew16.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew16.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew17.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew17.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew18.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew18.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew19.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew19.png"
               />
             </div>
             <div>
               <img
-                src="https://britanniaschool.com.co/imagenes/primariaNew20.png"
+                src="https://britanniaschool.co.com/imagenes/primariaNew20.png"
               />
             </div>
           </Carousel>
@@ -205,121 +205,121 @@ export default function PrimarySchool() {
               >
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew1.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew1.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew2.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew2.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew3.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew3.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew4.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew4.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew5.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew5.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew6.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew6.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew7.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew7.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew8.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew8.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew9.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew9.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew10.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew10.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew11.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew11.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew12.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew12.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew13.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew13.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew14.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew14.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew15.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew15.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew16.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew16.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew17.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew17.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew18.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew18.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew19.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew19.png"
                     className="primaryImagen"
                   />
                 </div>
                 <div>
                   <img
-                    src="https://britanniaschool.com.co/imagenes/primariaNew20.png"
+                    src="https://britanniaschool.co.com/imagenes/primariaNew20.png"
                     className="primaryImagen"
                   />
                 </div>

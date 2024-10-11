@@ -31,7 +31,7 @@ export default function Convenios() {
       {isMobile ? (
         <div>
          <img
-           src="https://britanniaschool.com.co/imagenes/bannerVerde.png" className="imagenConvenioResponsive"
+           src="https://britanniaschool.co.com/imagenes/bannerVerde.png" className="imagenConvenioResponsive"
          />
          <br></br><br></br>
           <a href='#' className='volver'>Volver</a>
@@ -39,7 +39,7 @@ export default function Convenios() {
          </div>
       ) : (
         <img
-          src="https://britanniaschool.com.co/imagenes/bannerVerde.png"
+          src="https://britanniaschool.co.com/imagenes/bannerVerde.png"
           className="imagenConvenio"
         />
       )}

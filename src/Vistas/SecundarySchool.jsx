@@ -52,37 +52,37 @@ Lo que asegura que nuestro entorno de enseñanza sea inclusivo y prepara a todos
             dynamicHeight={true}
           >
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchool1.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchool1.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchool2.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchool2.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchool3.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchool3.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchool5.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchool5.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchool6.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchool6.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew1.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew1.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew2.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew2.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew3.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew3.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew4.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew4.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew5.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew5.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew6.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew6.png" />
             </div>
           </Carousel>
           <center>
@@ -122,40 +122,40 @@ Lo que asegura que nuestro entorno de enseñanza sea inclusivo y prepara a todos
     dynamicHeight={true}
   >
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool1.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool1.png" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool2.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool2.png" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool3.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool3.png" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool4.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool4.png" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool5.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool5.png" />
     </div>
     <div>
-      <img src="https://britanniaschool.com.co/imagenes/SecundarySchool6.png" />
+      <img src="https://britanniaschool.co.com/imagenes/SecundarySchool6.png" />
     </div>
     <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew1.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew1.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew2.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew2.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew3.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew3.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew4.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew4.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew5.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew5.png" />
             </div>
             <div>
-              <img src="https://britanniaschool.com.co/imagenes/SecundarySchoolNew6.png" />
+              <img src="https://britanniaschool.co.com/imagenes/SecundarySchoolNew6.png" />
             </div>
   </Carousel>
               </center>

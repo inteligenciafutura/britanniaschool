@@ -36,7 +36,7 @@ export default function ProyectoEducativo() {
            <div>
              <div className="imagen-container">
                <img
-                 src="https://britanniaschool.com.co/imagenes/bannerAzul1.png"
+                 src="https://britanniaschool.co.com/imagenes/bannerAzul1.png"
                  className="imagenidioma"
                  alt="Imagen Educativa"
                />
@@ -63,7 +63,7 @@ export default function ProyectoEducativo() {
           <div>
             <div className="imagen-container">
               <img
-                src="https://britanniaschool.com.co/imagenes/bannerAzul1.png"
+                src="https://britanniaschool.co.com/imagenes/bannerAzul1.png"
                 className="imagenidioma"
                 alt="Imagen Educativa"
               />

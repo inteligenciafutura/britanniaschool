@@ -22,19 +22,19 @@ export default function Header() {
       {isMobile ? (
         <div>
           <img
-              src="https://britanniaschool.com.co/imagenes/2021/07/logo-1024x207.png"
+              src="https://britanniaschool.co.com/imagenes/2021/07/logo-1024x207.png"
               className="logoMenuResponsive"
             />
             <a href="#" className="ciudad">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/pin.png"
+                  src="https://britanniaschool.co.com/imagenes/pin.png"
                   alt="Location"
                 />{" "}
                 <strong>Cúcuta, Colombia. </strong>
               </a>
               <a href="#" className="ciudad">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/telefono.png"
+                  src="https://britanniaschool.co.com/imagenes/telefono.png"
                   alt="Phone"
                 />
                 <strong> +57 315 323 3611</strong>
@@ -44,7 +44,7 @@ export default function Header() {
         <div className="header">
           <div className="logo">
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/07/logo-1024x207.png"
+              src="https://britanniaschool.co.com/imagenes/2021/07/logo-1024x207.png"
               alt="Logo"
             />
           </div>
@@ -52,14 +52,14 @@ export default function Header() {
             <div className="contact-info">
               <a href="#" className="ciudad">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/pin.png"
+                  src="https://britanniaschool.co.com/imagenes/pin.png"
                   alt="Location"
                 />{" "}
                 <strong>Cúcuta, Colombia.</strong>
               </a>
               <a href="#" className="ciudad">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/telefono.png"
+                  src="https://britanniaschool.co.com/imagenes/telefono.png"
                   alt="Phone"
                 />
                 <strong>+57 315 323 3611</strong>
@@ -67,16 +67,16 @@ export default function Header() {
             </div>
             <div className="social-links">
               <a href="https://www.facebook.com/Colegiobritanniaschool">
-                <img src="https://britanniaschool.com.co/imagenes/facebook.png" />
+                <img src="https://britanniaschool.co.com/imagenes/facebook.png" />
               </a>
               <a href="https://www.instagram.com/britannia_school_cucuta_/">
-                <img src="https://britanniaschool.com.co/imagenes/instagram.png" />
+                <img src="https://britanniaschool.co.com/imagenes/instagram.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/twitter.png" />
+                <img src="https://britanniaschool.co.com/imagenes/twitter.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/linkedin.png" />
+                <img src="https://britanniaschool.co.com/imagenes/linkedin.png" />
               </a>
             </div>
           </div>

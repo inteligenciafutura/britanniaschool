@@ -48,43 +48,43 @@ export default function Visitanos() {
         >
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/cambridge.png"
+              src="https://britanniaschool.co.com/imagenes/2021/09/cambridge.png"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06476.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06476.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06484.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06484.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06486.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06486.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06487.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06487.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06490.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06490.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06490.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06490.jpg"
               className="imagenvisitanos"
             />
           </div>
@@ -116,43 +116,43 @@ export default function Visitanos() {
         >
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/cambridge.png"
+              src="https://britanniaschool.co.com/imagenes/2021/09/cambridge.png"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06476.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06476.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06484.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06484.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06486.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06486.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06487.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06487.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06490.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06490.jpg"
               className="imagenvisitanos"
             />
           </div>
           <div>
             <img
-              src="https://britanniaschool.com.co/imagenes/2021/09/DSC06490.jpg"
+              src="https://britanniaschool.co.com/imagenes/2021/09/DSC06490.jpg"
               className="imagenvisitanos"
             />
           </div>

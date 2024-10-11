@@ -16,11 +16,11 @@ export default function SanPatricio() {
        <p>
 <br></br>
 Además de esto, se llevó a cabo una integración entre nuestros estudiantes, la comunidad educativa y padres de familia.</p>
-      <img src="https://britanniaschool.com.co/imagenes/SanPatricio1.jpg" />
-      <img src="https://britanniaschool.com.co/imagenes/SanPatricio2.jpg" />
-      <img src="https://britanniaschool.com.co/imagenes/SanPatricio3.jpg" />
-      <img src="https://britanniaschool.com.co/imagenes/SanPatricio4.jpg" />
-      <img src="https://britanniaschool.com.co/imagenes/SanPatricio5.jpg" />
+      <img src="https://britanniaschool.co.com/imagenes/SanPatricio1.jpg" />
+      <img src="https://britanniaschool.co.com/imagenes/SanPatricio2.jpg" />
+      <img src="https://britanniaschool.co.com/imagenes/SanPatricio3.jpg" />
+      <img src="https://britanniaschool.co.com/imagenes/SanPatricio4.jpg" />
+      <img src="https://britanniaschool.co.com/imagenes/SanPatricio5.jpg" />
       </center>
 
       <br></br>

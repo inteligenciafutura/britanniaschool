@@ -34,7 +34,7 @@ export default function Nosotros() {
               <p className="text-justifyNosotrosResponsive">La INSTITUCION BRITANNIA SCHOOL es un colegio de educación formal con énfasis en inglés, comprometidos con la formación de ciudadanos del mundo, bilingües, humanistas y preparados para aportar en la construcción de una mejor sociedad.</p>
             </div>
             <div className="colNosotrosResponsive">
-              <img src="https://britanniaschool.com.co/imagenes/china.png" className='imagenNosotros' alt="Imagen" />
+              <img src="https://britanniaschool.co.com/imagenes/china.png" className='imagenNosotros' alt="Imagen" />
             </div>
           </div>
           {/* Agrega más contenido aquí si es necesario */}
@@ -44,7 +44,7 @@ export default function Nosotros() {
               <p className="text-justifyNosotrosResponsive">BRITANNIA SCHOOL será reconocido en el 2027 cómo una institución líder en la formación integral de sus estudiantes, con valores institucionales sólidos y con el dominio del idioma inglés como puente en la generación de mejores oportunidades en su vida personal.</p>
             </div>
             <div className="colNosotrosResponsive">
-              <img src="https://britanniaschool.com.co/imagenes/imagenHome7.png" className='imagenNosotros' alt="Imagen" />
+              <img src="https://britanniaschool.co.com/imagenes/imagenHome7.png" className='imagenNosotros' alt="Imagen" />
             </div>
           </div>
           <div className="rowNosotrosResponsive">
@@ -53,7 +53,7 @@ export default function Nosotros() {
               <p className="text-justifyNosotrosResponsive">El colegio BRITANNIA SCHOOL se compromete a garantizar a sus estudiantes una educación personalizada, propiciando ambientes de aprendizaje fundamentados en valores. Con un personal idóneo en formación de niños y jóvenes competentes, con excelentes resultados académicos bilingües y mejorando continuamente su gestión.</p>
             </div>
             <div className="colNosotrosResponsive">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/tim-mossholder-WE_Kv_ZB1l0-unsplash-1024x683.jpg" className='imagenNosotros' alt="Imagen" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/tim-mossholder-WE_Kv_ZB1l0-unsplash-1024x683.jpg" className='imagenNosotros' alt="Imagen" />
             </div>
           </div>
           <br></br>
@@ -70,12 +70,12 @@ export default function Nosotros() {
         <p className="text-justifyNosotros">La INSTITUCION BRITANNIA SCHOOL es un colegio de educación formal con énfasis en inglés, comprometidos con la formación de ciudadanos del mundo, bilingües, humanistas y preparados para aportar en la construcción de una mejor sociedad.</p>
       </div>
       <div className="colNosotros">
-        <img src="https://britanniaschool.com.co/imagenes/china.png" className="centered-image" />
+        <img src="https://britanniaschool.co.com/imagenes/china.png" className="centered-image" />
       </div>
     </div>
     <div className="rowNosotros">
       <div className="colNosotros">
-        <img className="centered-image" src="https://britanniaschool.com.co/imagenes/imagenHome7.png" />
+        <img className="centered-image" src="https://britanniaschool.co.com/imagenes/imagenHome7.png" />
       </div>
       <div className="colNosotros">
         <h2 className="blue-textNosotros">Visión</h2>
@@ -88,7 +88,7 @@ export default function Nosotros() {
         <p className="text-justifyNosotros">El colegio BRITANNIA SCHOOL se compromete a garantizar a sus estudiantes una educación personalizada, propiciando ambientes de aprendizaje fundamentados en valores. Con un personal idóneo en formación de niños y jóvenes competentes, con excelentes resultados académicos bilingües y mejorando continuamente su gestión.</p>
       </div>
       <div className="colNosotros">
-        <img src="https://britanniaschool.com.co/imagenes/2021/08/tim-mossholder-WE_Kv_ZB1l0-unsplash-1024x683.jpg" className="centered-image" />
+        <img src="https://britanniaschool.co.com/imagenes/2021/08/tim-mossholder-WE_Kv_ZB1l0-unsplash-1024x683.jpg" className="centered-image" />
       </div>
     </div>
 

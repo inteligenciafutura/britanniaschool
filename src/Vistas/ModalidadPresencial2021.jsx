@@ -20,13 +20,13 @@ export default function ModalidadPresencial2021() {
         dynamicHeight={true}
       >
         <div>
-        <img src="https://britanniaschool.com.co/imagenes/2021/09/Clases-en-el-aula-..presencialidad-1.jpg" />
+        <img src="https://britanniaschool.co.com/imagenes/2021/09/Clases-en-el-aula-..presencialidad-1.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/2021/09/Clases-en-el-aula-..presencialidad-2.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/2021/09/Clases-en-el-aula-..presencialidad-2.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/2021/09/Clases-en-el-aula-..presencialidad-4.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/2021/09/Clases-en-el-aula-..presencialidad-4.jpg" />
         </div>
       </Carousel>
      

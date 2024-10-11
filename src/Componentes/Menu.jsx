@@ -54,7 +54,7 @@ export default function Menu() {
               href="https://www.webcolegios.com/eaglehillschool/"
             >
               <img
-                src="https://britanniaschool.com.co/imagenes/2021/09/logo_webcolegios.png"
+                src="https://britanniaschool.co.com/imagenes/2021/09/logo_webcolegios.png"
                 className="imgWeb"
               />
             </a>

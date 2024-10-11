@@ -24,7 +24,7 @@ export default function Footer() {
           <footer className="footer2">
             <center>
             <img
-              src="https://britanniaschool.com.co/imagenes/logoBritania.svg"
+              src="https://britanniaschool.co.com/imagenes/logoBritania.svg"
               className="logoFooter"
             />
             </center>
@@ -42,23 +42,23 @@ export default function Footer() {
             </div>
             <div className="footer-column">
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/facebook.png" />
+                <img src="https://britanniaschool.co.com/imagenes/facebook.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/instagram.png" />
+                <img src="https://britanniaschool.co.com/imagenes/instagram.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/twitter.png" />
+                <img src="https://britanniaschool.co.com/imagenes/twitter.png" />
               </a>
               <a href="#">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/linkedin.png"
+                  src="https://britanniaschool.co.com/imagenes/linkedin.png"
                   className="social"
                 />
               </a>
               <a href="https://api.whatsapp.com/send?phone=573153233611&amp;text=Hola,%20en%20que%20te%20puedo%20ayudar?">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/2021/07/iconoWhatshapp-150x150.png"
+                  src="https://britanniaschool.co.com/imagenes/2021/07/iconoWhatshapp-150x150.png"
                   className="whatsappReponsive"
                 />
               </a>
@@ -70,7 +70,7 @@ export default function Footer() {
           <div className="custom-footer">
             <div className="footer-column">
               <img
-                src="https://britanniaschool.com.co/imagenes/logoBritania.svg"
+                src="https://britanniaschool.co.com/imagenes/logoBritania.svg"
                 className="logoFooter"
               />
             </div>
@@ -88,23 +88,23 @@ export default function Footer() {
             </div>
             <div className="footer-column">
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/facebook.png" />
+                <img src="https://britanniaschool.co.com/imagenes/facebook.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/instagram.png" />
+                <img src="https://britanniaschool.co.com/imagenes/instagram.png" />
               </a>
               <a href="#">
-                <img src="https://britanniaschool.com.co/imagenes/twitter.png" />
+                <img src="https://britanniaschool.co.com/imagenes/twitter.png" />
               </a>
               <a href="#">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/linkedin.png"
+                  src="https://britanniaschool.co.com/imagenes/linkedin.png"
                   className="social"
                 />
               </a>
               <a href="https://api.whatsapp.com/send?phone=573153233611&amp;text=Hola,%20en%20que%20te%20puedo%20ayudar?">
                 <img
-                  src="https://britanniaschool.com.co/imagenes/2021/07/iconoWhatshapp-150x150.png"
+                  src="https://britanniaschool.co.com/imagenes/2021/07/iconoWhatshapp-150x150.png"
                   className="whatsapp"
                 />
               </a>

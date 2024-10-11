@@ -36,28 +36,28 @@ export default function Kindergarten() {
                   dynamicHeight={true}
                 >
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew1.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew1.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew2.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew2.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew3.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew3.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew4.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew4.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew5.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew5.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew6.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew6.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew7.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew7.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew8.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew8.png" />
                   </div>
                 </Carousel>
                 <h2 className="blue-textNosotros">Preescolar</h2>
@@ -121,28 +121,28 @@ export default function Kindergarten() {
                   dynamicHeight={true}
                 >
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew1.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew1.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew2.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew2.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew3.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew3.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew4.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew4.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew5.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew5.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew6.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew6.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew7.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew7.png" />
                   </div>
                   <div>
-                    <img src="https://britanniaschool.com.co/imagenes/Primarysnew8.png" />
+                    <img src="https://britanniaschool.co.com/imagenes/Primarysnew8.png" />
                   </div>
                 </Carousel>
               </div>

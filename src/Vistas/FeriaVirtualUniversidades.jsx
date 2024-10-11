@@ -20,16 +20,16 @@ export default function FeriaVirtualUniversidades() {
         dynamicHeight={true}
       >
         <div>
-        <img src="https://britanniaschool.com.co/imagenes/2021/09/Feria-virtual-11-agosto-20-1.jpg" />
+        <img src="https://britanniaschool.co.com/imagenes/2021/09/Feria-virtual-11-agosto-20-1.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/2021/09/Feria-virtual-11-agosto-20-2.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/2021/09/Feria-virtual-11-agosto-20-2.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/2021/09/Feria-virtual-11-agosto-20-3.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/2021/09/Feria-virtual-11-agosto-20-3.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/2021/09/Feria-virtual-11-agosto-20-5.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/2021/09/Feria-virtual-11-agosto-20-5.jpg" />
         </div>
       </Carousel>
      

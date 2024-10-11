@@ -39,7 +39,7 @@ export default function AdmisionesMatriculas() {
     formData.append("bachillerato", bachillerato);
 
     // Realizar una solicitud POST al archivo PHP
-    fetch("https://britanniaschool.com.co/correo.php", {
+    fetch("https://britanniaschool.co.com/correo.php", {
       method: "POST",
       body: formData,
     })
@@ -70,7 +70,7 @@ export default function AdmisionesMatriculas() {
           <center>
           <img
               className="imgMatriculas"
-              src="https://britanniaschool.com.co/imagenes/admision1.png"
+              src="https://britanniaschool.co.com/imagenes/admision1.png"
             />
             </center>
             <br></br>
@@ -132,7 +132,7 @@ export default function AdmisionesMatriculas() {
           <div class="columnaAdmisionesMatriculas izquierdaAdmisionesMatriculas">
             <img
               className="imgMatriculas"
-              src="https://britanniaschool.com.co/imagenes/admision1.png"
+              src="https://britanniaschool.co.com/imagenes/admision1.png"
             />
           </div>
           <div class="columnaAdmisionesMatriculas derechaAdmisionesMatriculas">

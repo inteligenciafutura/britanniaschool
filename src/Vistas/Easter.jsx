@@ -20,19 +20,19 @@ export default function Easter() {
         dynamicHeight={true}
       >
         <div>
-        <img src="https://britanniaschool.com.co/imagenes/Easter1.jpg" />
+        <img src="https://britanniaschool.co.com/imagenes/Easter1.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Easter2.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/Easter2.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Easter3.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/Easter3.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Easter4.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/Easter4.jpg" />
         </div>
         <div>
-          <img src="https://britanniaschool.com.co/imagenes/Easter5.jpg" />
+          <img src="https://britanniaschool.co.com/imagenes/Easter5.jpg" />
         </div>
       </Carousel>
      

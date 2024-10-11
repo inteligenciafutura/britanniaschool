@@ -28,7 +28,7 @@ export default function PlanAcademico() {
       <Header></Header>
       <Menu></Menu>
 
-    <img src="https://britanniaschool.com.co/imagenes/PLAN-ACADEMICO.png" className="imagenConvenio" />
+    <img src="https://britanniaschool.co.com/imagenes/PLAN-ACADEMICO.png" className="imagenConvenio" />
     <br></br><br></br>
           <a href='#' className='volver'>Volver</a>
           <br></br><br></br>

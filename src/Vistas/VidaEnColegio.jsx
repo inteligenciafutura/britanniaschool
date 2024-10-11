@@ -30,7 +30,7 @@ export default function VidaEnColegio() {
       <Menu></Menu>
 
       <img
-        src="https://britanniaschool.com.co/imagenes/2021/08/banner-solo-vida-en-el-cole-07.png"
+        src="https://britanniaschool.co.com/imagenes/2021/08/banner-solo-vida-en-el-cole-07.png"
         className="imagenNosotros"
       />
 
@@ -51,7 +51,7 @@ export default function VidaEnColegio() {
 
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/estudiante.png" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/estudiante.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIANA YÁÑEZ ROJAS</div>
@@ -78,7 +78,7 @@ export default function VidaEnColegio() {
           </h1>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/samuel.png" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/samuel.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">ADAM SAMUEL ORDÓÑEZ SAAVEDRA</div>
@@ -100,7 +100,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/CARDENAS-CASANOVA-MARTIN-ELIAS.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/CARDENAS-CASANOVA-MARTIN-ELIAS.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARTIN ELIAS CARDENAS CASANOVA</div>
@@ -122,7 +122,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0666-A-HECTOR-EUSEBIO-RODELO-1.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0666-A-HECTOR-EUSEBIO-RODELO-1.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">HECTOR EUSEBIO RODELO</div>
@@ -142,7 +142,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0680-A-SANDRA-BELEN-BARON.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0680-A-SANDRA-BELEN-BARON.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">SANDRA BELEN BARÓN</div>
@@ -164,7 +164,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/POSTIGLIONI-PENALOZA-DANTE.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/POSTIGLIONI-PENALOZA-DANTE.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">DANTE POSTIGLIONI PEÑALOZA</div>
@@ -186,7 +186,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-8.19.43-AM.jpeg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-8.19.43-AM.jpeg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">ADRIANA MARGARITA LOPEZ</div>
@@ -208,7 +208,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0671-A-MARIA-GABRIELA-HERNANDEZ-min.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0671-A-MARIA-GABRIELA-HERNANDEZ-min.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIA GABRIELA HERNANDEZ</div>
@@ -230,7 +230,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-4.45.23-PM.jpeg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-4.45.23-PM.jpeg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">JHOANA PEÑALOZA MORA</div>
@@ -252,7 +252,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/gabri.png" />
+              <img src="https://britanniaschool.co.com/imagenes/gabri.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">GABRIELA VILLAMIZAR</div>
@@ -274,7 +274,7 @@ export default function VidaEnColegio() {
 <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/mari.png" />
+              <img src="https://britanniaschool.co.com/imagenes/mari.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIA GABRIELA AMAYA</div>
@@ -318,22 +318,22 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40752341_2114921492152525_3594827415605477376_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40752341_2114921492152525_3594827415605477376_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40773540_2114921508819190_4436362141984882688_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40773540_2114921508819190_4436362141984882688_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40847075_2114921415485866_5634748422335496192_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40847075_2114921415485866_5634748422335496192_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/41083554_2114921408819200_6960754282882662400_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/41083554_2114921408819200_6960754282882662400_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/41341756_2117798991864775_6350764692289355776_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/41341756_2117798991864775_6350764692289355776_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/44840841_2144985759146098_3746463937525186560_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/44840841_2144985759146098_3746463937525186560_n.jpg" />
                 </div>
               </Carousel>
             </div>
@@ -348,22 +348,22 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni1.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni1.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni2.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni2.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni3.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni3.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni4.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni4.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni5.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni5.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni6.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni6.png" />
                 </div>
               </Carousel>
             </div>
@@ -411,10 +411,10 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-1.jpeg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-1.jpeg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-300x225.jpeg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-300x225.jpeg" />
                 </div>
               </Carousel>
             </div>
@@ -441,7 +441,7 @@ export default function VidaEnColegio() {
 
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/estudiante.png" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/estudiante.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIANA YÁÑEZ ROJAS</div>
@@ -470,7 +470,7 @@ export default function VidaEnColegio() {
 
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/samuel.png" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/samuel.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">ADAM SAMUEL ORDÓÑEZ SAAVEDRA</div>
@@ -493,7 +493,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/CARDENAS-CASANOVA-MARTIN-ELIAS.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/CARDENAS-CASANOVA-MARTIN-ELIAS.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARTIN ELIAS CARDENAS CASANOVA</div>
@@ -516,7 +516,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0666-A-HECTOR-EUSEBIO-RODELO-1.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0666-A-HECTOR-EUSEBIO-RODELO-1.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">HECTOR EUSEBIO RODELO</div>
@@ -539,7 +539,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0680-A-SANDRA-BELEN-BARON.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0680-A-SANDRA-BELEN-BARON.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">SANDRA BELEN BARÓN</div>
@@ -562,7 +562,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/POSTIGLIONI-PENALOZA-DANTE.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/POSTIGLIONI-PENALOZA-DANTE.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">DANTE POSTIGLIONI PEÑALOZA</div>
@@ -585,7 +585,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-8.19.43-AM.jpeg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-8.19.43-AM.jpeg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">ADRIANA MARGARITA LOPEZ</div>
@@ -608,7 +608,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/DSC_0671-A-MARIA-GABRIELA-HERNANDEZ-min.jpg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/DSC_0671-A-MARIA-GABRIELA-HERNANDEZ-min.jpg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIA GABRIELA HERNANDEZ</div>
@@ -631,7 +631,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-4.45.23-PM.jpeg" />
+              <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-08-17-at-4.45.23-PM.jpeg" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">JHOANA PEÑALOZA MORA</div>
@@ -654,7 +654,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/gabri.png" />
+              <img src="https://britanniaschool.co.com/imagenes/gabri.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">GABRIELA VILLAMIZAR</div>
@@ -677,7 +677,7 @@ export default function VidaEnColegio() {
           <br></br>
           <div class="containerVida">
             <div class="image-containerVida">
-              <img src="https://britanniaschool.com.co/imagenes/mari.png" />
+              <img src="https://britanniaschool.co.com/imagenes/mari.png" />
             </div>
             <div class="text-containerVida">
               <div class="titleVida">MARIA GABRIELA AMAYA</div>
@@ -723,22 +723,22 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40752341_2114921492152525_3594827415605477376_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40752341_2114921492152525_3594827415605477376_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40773540_2114921508819190_4436362141984882688_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40773540_2114921508819190_4436362141984882688_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/40847075_2114921415485866_5634748422335496192_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/40847075_2114921415485866_5634748422335496192_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/41083554_2114921408819200_6960754282882662400_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/41083554_2114921408819200_6960754282882662400_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/41341756_2117798991864775_6350764692289355776_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/41341756_2117798991864775_6350764692289355776_n.jpg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/44840841_2144985759146098_3746463937525186560_n.jpg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/44840841_2144985759146098_3746463937525186560_n.jpg" />
                 </div>
               </Carousel>
             </div>
@@ -753,22 +753,22 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni1.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni1.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni2.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni2.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni3.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni3.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni4.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni4.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni5.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni5.png" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/uni6.png" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/uni6.png" />
                 </div>
               </Carousel>
             </div>
@@ -816,10 +816,10 @@ export default function VidaEnColegio() {
                 dynamicHeight={true}
               >
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-1.jpeg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-1.jpeg" />
                 </div>
                 <div>
-                  <img src="https://britanniaschool.com.co/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-300x225.jpeg" />
+                  <img src="https://britanniaschool.co.com/imagenes/2021/08/WhatsApp-Image-2021-07-23-at-9.17.09-AM-300x225.jpeg" />
                 </div>
               </Carousel>
             </div>
